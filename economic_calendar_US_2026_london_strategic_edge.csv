@@ -1,0 +1,926 @@
+# London Strategic Edge - Economic Calendar Data
+# Source: londonstrategicedge.com/datasets
+
+event_date,country,event,currency,previous,estimate,actual,change,change_percentage,impact,unit
+2026-01-01 15:30:00+00:00,US,4-Week Bill Auction,USD,,,,,0.0000,Low,
+2026-01-01 15:30:00+00:00,US,8-Week Bill Auction,USD,,,,,0.0000,Low,
+2026-01-02 12:30:00+00:00,US,Average Hourly Earnings,USD,,,,,0.0000,Medium,
+2026-01-02 12:30:00+00:00,US,Continuing Jobless Claims (Dec/20),USD,,,,,0.0000,High,
+2026-01-02 12:30:00+00:00,US,Initial Jobless Claims (Dec/27),USD,,,,,0.0000,High,
+2026-01-02 12:30:00+00:00,US,Jobless Claims 4-Week Average (Dec/27),USD,,,,,0.0000,High,
+2026-01-02 13:45:00+00:00,US,S&P Global Manufacturing PMI (Dec),USD,52.2000,51.8000,51.8000,-0.4000,-0.7660,Low,
+2026-01-02 14:00:00+00:00,US,Construction Spending MoM,USD,0.2000,,,,0.0000,Medium,%
+2026-01-02 14:00:00+00:00,US,Construction Spending MoM (Nov),USD,0.2000,-0.1000,,,0.0000,Low,
+2026-01-02 14:00:00+00:00,US,Construction Spending MoM (Oct),USD,0.2000,0.1000,,,0.0000,Low,
+2026-01-02 14:00:00+00:00,US,Construction Spending MoM (Sep),USD,0.2000,-0.1000,,,0.0000,Low,%
+2026-01-02 17:00:00+00:00,US,Baker Hughes Oil Rig Count (Jan/02),USD,,,,,0.0000,Low,
+2026-01-02 19:30:00+00:00,US,CFTC Aluminium Speculative net positions,USD,-2.3000,,,,0.0000,Low,K
+2026-01-02 19:30:00+00:00,US,CFTC Copper Speculative net positions,USD,64.8000,,,,0.0000,Low,K
+2026-01-02 19:30:00+00:00,US,CFTC Corn speculative net positions,USD,14.7000,,,,0.0000,Low,K
+2026-01-02 19:30:00+00:00,US,CFTC Crude Oil speculative net positions,USD,54.9000,,,,0.0000,Medium,K
+2026-01-02 19:30:00+00:00,US,CFTC Gold Speculative net positions,USD,234.0000,,,,0.0000,Medium,K
+2026-01-02 19:30:00+00:00,US,CFTC Nasdaq 100 speculative net positions,USD,46.4000,,,,0.0000,Medium,K
+2026-01-02 19:30:00+00:00,US,CFTC Natural Gas speculative net positions,USD,-128.0000,,,,0.0000,Low,K
+2026-01-02 19:30:00+00:00,US,CFTC Silver Speculative net positions,USD,36.4000,,,,0.0000,Low,K
+2026-01-02 19:30:00+00:00,US,CFTC Soybeans speculative net positions,USD,192.9000,,,,0.0000,Low,K
+2026-01-02 19:30:00+00:00,US,CFTC S&P 500 speculative net positions,USD,-166.0000,,,,0.0000,Medium,K
+2026-01-02 19:30:00+00:00,US,CFTC Wheat speculative net positions,USD,-50.2000,,,,0.0000,Low,K
+2026-01-02 20:30:00+00:00,US,Fed Balance Sheet (Dec/31),USD,6.5600,,6.6400,0.0800,1.2200,Low,T
+2026-01-04 09:00:00+00:00,US,OPEC Meeting,USD,,,,,0.0000,Medium,
+2026-01-04 16:30:00+00:00,US,Fed Kashkari Speech,USD,,,,,0.0000,Medium,
+2026-01-05 12:45:00+00:00,US,S&P Global Services PMI (Dec),USD,52.9000,,,,0.0000,High,
+2026-01-05 14:00:00+00:00,US,ISM Manufacturing Employment (Dec),USD,44.0000,44.1000,44.9000,0.9000,2.0450,Medium,
+2026-01-05 14:00:00+00:00,US,ISM Manufacturing New Orders (Dec),USD,47.4000,47.2000,47.7000,0.3000,0.6330,Low,
+2026-01-05 14:00:00+00:00,US,ISM Manufacturing PMI (Dec),USD,48.2000,48.3000,47.9000,-0.3000,-0.6220,High,
+2026-01-05 14:00:00+00:00,US,ISM Manufacturing Prices (Dec),USD,58.5000,59.0000,58.5000,0.0000,0.0000,Low,
+2026-01-05 15:30:00+00:00,US,3-Month Bill Auction,USD,3.5700,,3.5400,-0.0300,-0.8400,Low,%
+2026-01-05 15:30:00+00:00,US,6-Month Bill Auction,USD,3.5000,,3.4750,-0.0250,-0.7140,Low,%
+2026-01-05 16:00:00+00:00,US,Atlanta Fed GDPNow (Q4),USD,3.0000,3.0000,2.7000,-0.3000,-10.0000,Medium,%
+2026-01-05 18:00:00+00:00,US,Total Vehicle Sales,USD,15.6000,,,,0.0000,Low,M
+2026-01-05 18:00:00+00:00,US,Total Vehicle Sales (Dec),USD,15.6000,15.7000,16.0000,0.4000,2.5640,Low,M
+2026-01-05 19:30:00+00:00,US,CFTC Aluminium Speculative net positions,USD,-2.4000,,-2.4000,0.0000,0.0000,Low,K
+2026-01-05 19:30:00+00:00,US,CFTC Copper Speculative net positions,USD,67.1000,,59.8000,-7.3000,-10.8790,Low,K
+2026-01-05 19:30:00+00:00,US,CFTC Corn speculative net positions,USD,64.9000,,53.2000,-11.7000,-18.0280,Low,K
+2026-01-05 19:30:00+00:00,US,CFTC Crude Oil speculative net positions,USD,64.9000,,64.6000,-0.3000,-0.4620,Medium,K
+2026-01-05 19:30:00+00:00,US,CFTC Gold Speculative net positions,USD,240.7000,,231.2000,-9.5000,-3.9470,Medium,K
+2026-01-05 19:30:00+00:00,US,CFTC Nasdaq 100 speculative net positions,USD,31.8000,,25.1000,-6.7000,-21.0690,Medium,K
+2026-01-05 19:30:00+00:00,US,CFTC Natural Gas speculative net positions,USD,-156.3000,,-154.9000,1.4000,0.8960,Low,K
+2026-01-05 19:30:00+00:00,US,CFTC Silver Speculative net positions,USD,35.9000,,30.1000,-5.8000,-16.1560,Low,K
+2026-01-05 19:30:00+00:00,US,CFTC Soybeans speculative net positions,USD,157.8000,,121.8000,-36.0000,-22.8140,Low,K
+2026-01-05 19:30:00+00:00,US,CFTC S&P 500 speculative net positions,USD,-81.8000,,-94.4000,-12.6000,-15.4030,Medium,K
+2026-01-05 19:30:00+00:00,US,CFTC Wheat speculative net positions,USD,-71.8000,,-71.0000,0.8000,1.1140,Low,K
+2026-01-06 10:00:00+00:00,US,LMI Logistics Managers Index (Dec),USD,55.7000,,54.2000,-1.5000,-2.6930,Low,
+2026-01-06 12:00:00+00:00,US,Fed Barkin Speech,USD,,,,,0.0000,Medium,
+2026-01-06 12:55:00+00:00,US,Redbook YoY (Jan/03),USD,7.6000,,7.1000,-0.5000,-6.5790,Low,%
+2026-01-06 13:45:00+00:00,US,S&P Global Composite PMI (Dec),USD,54.2000,53.0000,52.7000,-1.5000,-2.7680,Low,
+2026-01-06 13:45:00+00:00,US,S&P Global Services PMI (Dec),USD,54.1000,52.9000,52.5000,-1.6000,-2.9570,Low,
+2026-01-06 14:00:00+00:00,US,All Car Sales (Dec),USD,2.6500,,2.7700,0.1200,4.5280,Low,M
+2026-01-06 14:00:00+00:00,US,All Truck Sales (Dec),USD,13.6300,,13.2500,-0.3800,-2.7880,Low,M
+2026-01-06 20:30:00+00:00,US,API Crude Oil Stock Change (Jan/02),USD,1.7000,1.2000,-2.8000,-4.5000,-264.7060,Medium,M
+2026-01-07 11:00:00+00:00,US,MBA 30-Year Mortgage Rate (Dec/26),USD,6.3100,,6.3200,0.0100,0.1580,Medium,%
+2026-01-07 11:00:00+00:00,US,MBA 30-Year Mortgage Rate (Jan/02),USD,6.3200,,6.2500,-0.0700,-1.1080,Medium,%
+2026-01-07 11:00:00+00:00,US,MBA Mortgage Applications (Dec/26),USD,-5.0000,,-10.0000,-5.0000,-100.0000,Low,%
+2026-01-07 11:00:00+00:00,US,MBA Mortgage Applications (Jan/02),USD,-10.0000,,0.3000,10.3000,103.0000,Low,%
+2026-01-07 11:00:00+00:00,US,MBA Mortgage Market Index (Dec/26),USD,299.8000,,269.9000,-29.9000,-9.9730,Low,
+2026-01-07 11:00:00+00:00,US,MBA Mortgage Market Index (Jan/02),USD,269.9000,,270.8000,0.9000,0.3330,Low,
+2026-01-07 11:00:00+00:00,US,MBA Mortgage Refinance Index (Dec/26),USD,1084.3000,,872.1000,-212.2000,-19.5700,Low,
+2026-01-07 11:00:00+00:00,US,MBA Mortgage Refinance Index (Jan/02),USD,872.1000,,937.0000,64.9000,7.4420,Low,
+2026-01-07 11:00:00+00:00,US,MBA Purchase Index (Dec/26),USD,169.9000,,169.8000,-0.1000,-0.0590,Low,
+2026-01-07 11:00:00+00:00,US,MBA Purchase Index (Jan/02),USD,169.8000,,159.3000,-10.5000,-6.1840,Low,
+2026-01-07 12:15:00+00:00,US,ADP Employment Change (Dec),USD,-29.0000,47.0000,41.0000,70.0000,241.3790,High,K
+2026-01-07 14:00:00+00:00,US,Durable Goods Orders Ex Defense MoM,USD,-1.5000,-1.5000,-1.5000,0.0000,0.0000,Low,%
+2026-01-07 14:00:00+00:00,US,Durable Goods Orders Ex Transp MoM,USD,0.2000,,0.1000,-0.1000,-50.0000,Low,%
+2026-01-07 14:00:00+00:00,US,Factory Orders ex Transportation (Nov),USD,,0.3000,,,0.0000,Low,
+2026-01-07 14:00:00+00:00,US,Factory Orders ex Transportation (Oct),USD,0.1000,-0.3000,-0.2000,-0.3000,-300.0000,Low,%
+2026-01-07 14:00:00+00:00,US,Factory Orders MoM (Nov),USD,,0.4000,,,0.0000,Medium,
+2026-01-07 14:00:00+00:00,US,Factory Orders MoM (Oct),USD,0.2000,-1.2000,-1.3000,-1.5000,-750.0000,Medium,%
+2026-01-07 14:00:00+00:00,US,ISM Non-Manufacturing Business Activity (Dec),USD,54.5000,,56.0000,1.5000,2.7520,Low,
+2026-01-07 14:00:00+00:00,US,ISM Non-Manufacturing Employment (Dec),USD,48.9000,49.0000,52.0000,3.1000,6.3390,Medium,
+2026-01-07 14:00:00+00:00,US,ISM Non-Manufacturing New Orders (Dec),USD,52.9000,52.6000,57.9000,5.0000,9.4520,Low,
+2026-01-07 14:00:00+00:00,US,ISM Non-Manufacturing PMI (Dec),USD,52.6000,52.2000,54.4000,1.8000,3.4220,High,
+2026-01-07 14:00:00+00:00,US,ISM Non-Manufacturing Prices (Dec),USD,65.4000,64.9000,64.3000,-1.1000,-1.6820,High,
+2026-01-07 14:00:00+00:00,US,ISM Services Business Activity (Dec),USD,54.5000,54.0000,56.0000,1.5000,2.7520,Low,
+2026-01-07 14:00:00+00:00,US,ISM Services Employment (Dec),USD,48.9000,48.7000,52.0000,3.1000,6.3390,Low,
+2026-01-07 14:00:00+00:00,US,ISM Services New Orders (Dec),USD,52.9000,52.2000,57.9000,5.0000,9.4520,Low,
+2026-01-07 14:00:00+00:00,US,ISM Services PMI (Dec),USD,52.6000,52.3000,54.4000,1.8000,3.4220,High,
+2026-01-07 14:00:00+00:00,US,ISM Services Prices (Dec),USD,65.4000,65.5000,64.3000,-1.1000,-1.6820,Low,
+2026-01-07 14:00:00+00:00,US,JOLTs Job Openings (Nov),USD,7.4490,7.6000,7.1460,-0.3030,-4.0680,High,M
+2026-01-07 14:00:00+00:00,US,JOLTs Job Quits (Nov),USD,2.9730,2.9900,3.1610,0.1880,6.3240,Low,M
+2026-01-07 14:30:00+00:00,US,EIA Crude Oil Imports Change (Jan/02),USD,-0.9570,,0.5630,1.5200,158.8300,Low,M
+2026-01-07 14:30:00+00:00,US,EIA Crude Oil Stocks Change (Jan/02),USD,-1.9340,1.1000,-3.8310,-1.8970,-98.0870,Medium,M
+2026-01-07 14:30:00+00:00,US,EIA Cushing Crude Oil Stocks Change (Jan/02),USD,0.5430,,0.7280,0.1850,34.0700,Low,M
+2026-01-07 14:30:00+00:00,US,EIA Distillate Fuel Production Change (Jan/02),USD,-0.0760,,0.0810,0.1570,206.5790,Low,M
+2026-01-07 14:30:00+00:00,US,EIA Distillate Stocks Change (Jan/02),USD,4.9770,2.2000,5.5940,0.6170,12.3970,Low,M
+2026-01-07 14:30:00+00:00,US,EIA Gasoline Production Change (Jan/02),USD,-0.3520,,-0.4720,-0.1200,-34.0910,Low,M
+2026-01-07 14:30:00+00:00,US,EIA Gasoline Stocks Change (Jan/02),USD,5.8450,2.9000,7.7020,1.8570,31.7710,Medium,M
+2026-01-07 14:30:00+00:00,US,EIA Heating Oil Stocks Change (Jan/02),USD,0.1340,,0.6720,0.5380,401.4930,Low,M
+2026-01-07 14:30:00+00:00,US,EIA Refinery Crude Runs Change (Jan/02),USD,0.0710,,0.0620,-0.0090,-12.6760,Low,M
+2026-01-07 14:30:00+00:00,US,EIA Weekly Refinery Utilization Rates WoW,USD,0.1000,,0.0000,-0.1000,-100.0000,Low,%
+2026-01-07 14:30:00+00:00,US,Imports,USD,-0.9570,,0.5630,1.5200,158.8300,Low,M
+2026-01-07 15:30:00+00:00,US,17-Week Bill Auction,USD,3.5400,,3.5100,-0.0300,-0.8470,Low,%
+2026-01-07 19:30:00+00:00,US,CFTC Aluminium Speculative net positions,USD,-2.4000,,,,0.0000,Low,K
+2026-01-07 19:30:00+00:00,US,CFTC Copper Speculative net positions,USD,67.1000,,,,0.0000,Low,K
+2026-01-07 19:30:00+00:00,US,CFTC Corn speculative net positions,USD,64.9000,,,,0.0000,Low,K
+2026-01-07 19:30:00+00:00,US,CFTC Crude Oil speculative net positions,USD,64.9000,,,,0.0000,Medium,K
+2026-01-07 19:30:00+00:00,US,CFTC Gold Speculative net positions,USD,240.7000,,,,0.0000,Medium,K
+2026-01-07 19:30:00+00:00,US,CFTC Nasdaq 100 speculative net positions,USD,31.8000,,,,0.0000,Medium,K
+2026-01-07 19:30:00+00:00,US,CFTC Natural Gas speculative net positions,USD,-156.3000,,,,0.0000,Low,K
+2026-01-07 19:30:00+00:00,US,CFTC Silver Speculative net positions,USD,35.9000,,,,0.0000,Low,K
+2026-01-07 19:30:00+00:00,US,CFTC Soybeans speculative net positions,USD,157.8000,,,,0.0000,Low,K
+2026-01-07 19:30:00+00:00,US,CFTC S&P 500 speculative net positions,USD,-81.8000,,,,0.0000,Medium,K
+2026-01-07 19:30:00+00:00,US,CFTC Wheat speculative net positions,USD,-71.8000,,,,0.0000,Low,K
+2026-01-07 20:10:00+00:00,US,Fed Bowman Speech,USD,,,,,0.0000,Medium,
+2026-01-08 09:30:00+00:00,US,Challenger Job Cuts (Dec),USD,71.3210,89.0000,35.5530,-35.7680,-50.1510,Low,K
+2026-01-08 12:30:00+00:00,US,Balance of Trade (Nov),USD,,-53.0000,,,0.0000,Medium,B
+2026-01-08 12:30:00+00:00,US,Balance of Trade (Oct),USD,-48.1000,-58.9000,-29.4000,18.7000,38.8770,Medium,B
+2026-01-08 12:30:00+00:00,US,Continuing Jobless Claims (Dec/27),USD,1858.0000,1900.0000,1914.0000,56.0000,3.0140,High,K
+2026-01-08 12:30:00+00:00,US,Exports (Nov),USD,,293.0000,,,0.0000,Medium,B
+2026-01-08 12:30:00+00:00,US,Exports (Oct),USD,294.2000,290.0000,302.0000,7.8000,2.6510,Medium,B
+2026-01-08 12:30:00+00:00,US,Imports,USD,342.1000,,,,0.0000,Medium,B
+2026-01-08 12:30:00+00:00,US,Imports (Nov),USD,,346.0000,,,0.0000,Medium,B
+2026-01-08 12:30:00+00:00,US,Imports (Oct),USD,342.4000,344.0000,331.4000,-11.0000,-3.2130,Medium,B
+2026-01-08 12:30:00+00:00,US,Initial Jobless Claims (Jan/03),USD,200.0000,210.0000,208.0000,8.0000,4.0000,High,K
+2026-01-08 12:30:00+00:00,US,Jobless Claims 4-Week Average (Jan/03),USD,219.0000,210.7500,211.7500,-7.2500,-3.3110,High,K
+2026-01-08 12:30:00+00:00,US,Nonfarm Productivity QoQ (Q3),USD,4.1000,3.0000,4.9000,0.8000,19.5120,Medium,%
+2026-01-08 12:30:00+00:00,US,Unit Labour Costs QoQ (Q3),USD,-2.9000,1.0000,-1.9000,1.0000,34.4830,Medium,%
+2026-01-08 13:00:00+00:00,US,Used Car Prices MoM (Dec),USD,1.3000,,0.1000,-1.2000,-92.3080,Low,%
+2026-01-08 13:00:00+00:00,US,Used Car Prices YoY (Dec),USD,0.0000,,0.4000,0.4000,0.0000,Low,%
+2026-01-08 14:00:00+00:00,US,Wholesale Inventories MoM (Nov),USD,,0.1000,,,0.0000,Low,%
+2026-01-08 14:00:00+00:00,US,Wholesale Inventories MoM (Oct),USD,0.5000,0.2000,0.2000,-0.3000,-60.0000,Low,%
+2026-01-08 14:00:00+00:00,US,Wholesale Sales MoM (Oct),USD,-0.2000,,-0.4000,-0.2000,-100.0000,Low,%
+2026-01-08 14:30:00+00:00,US,EIA Natural Gas Stocks Change (Jan/02),USD,-38.0000,-114.0000,-119.0000,-81.0000,-213.1580,Low,B
+2026-01-08 15:00:00+00:00,US,Consumer Inflation Expectation (Dec),USD,3.2000,3.2000,3.4000,0.2000,6.2500,Low,%
+2026-01-08 15:30:00+00:00,US,4-Week Bill Auction,USD,3.5900,,3.5500,-0.0400,-1.1140,Low,%
+2026-01-08 15:30:00+00:00,US,8-Week Bill Auction,USD,3.5800,,3.5400,-0.0400,-1.1170,Low,%
+2026-01-08 16:00:00+00:00,US,15-Year Mortgage Rate (Jan/08),USD,5.4400,,5.4600,0.0200,0.3680,Low,%
+2026-01-08 16:00:00+00:00,US,30-Year Mortgage Rate (Jan/08),USD,6.1500,,6.1600,0.0100,0.1630,Low,%
+2026-01-08 19:00:00+00:00,US,BoE Consumer Credit,USD,9.2400,10.1000,4.2300,-5.0100,-54.2210,Medium,B
+2026-01-08 19:00:00+00:00,US,Consumer Credit Change (Nov),USD,9.2400,10.0000,4.2300,-5.0100,-54.2210,Low,B
+2026-01-08 20:30:00+00:00,US,Fed Balance Sheet (Jan/07),USD,6.6400,,6.5700,-0.0700,-1.0540,Low,T
+2026-01-09 12:30:00+00:00,US,Average Hourly Earnings MoM (Dec),USD,0.2000,0.3000,0.3000,0.1000,50.0000,Medium,%
+2026-01-09 12:30:00+00:00,US,Average Hourly Earnings YoY (Dec),USD,3.6000,3.6000,3.8000,0.2000,5.5560,Medium,%
+2026-01-09 12:30:00+00:00,US,Average Weekly Hours (Dec),USD,34.3000,34.3000,34.2000,-0.1000,-0.2920,Low,
+2026-01-09 12:30:00+00:00,US,Building Permits (Sep),USD,-2.3000,0.8000,6.4000,8.7000,378.2610,Medium,%
+2026-01-09 12:30:00+00:00,US,Government Payrolls (Dec),USD,6.0000,-10.0000,13.0000,7.0000,116.6670,Low,K
+2026-01-09 12:30:00+00:00,US,Housing Starts MoM (Oct),USD,1.2000,0.8000,-4.6000,-5.8000,-483.3330,Medium,%
+2026-01-09 12:30:00+00:00,US,Housing Starts MoM (Sep),USD,-9.1000,1.0000,1.2000,10.3000,113.1870,Medium,%
+2026-01-09 12:30:00+00:00,US,Housing Starts (Oct),USD,1.3060,1.3300,1.2460,-0.0600,-4.5940,High,M
+2026-01-09 12:30:00+00:00,US,Housing Starts (Sep),USD,1.2910,1.3300,1.3060,0.0150,1.1620,High,M
+2026-01-09 12:30:00+00:00,US,Manufacturing Payrolls (Dec),USD,-2.0000,-5.0000,-8.0000,-6.0000,-300.0000,Low,K
+2026-01-09 12:30:00+00:00,US,Non Farm Payrolls (Dec),USD,56.0000,60.0000,50.0000,-6.0000,-10.7140,High,K
+2026-01-09 12:30:00+00:00,US,Nonfarm Payrolls Private (Dec),USD,50.0000,64.0000,37.0000,-13.0000,-26.0000,High,K
+2026-01-09 12:30:00+00:00,US,Participation Rate (Dec),USD,62.5000,62.6000,62.4000,-0.1000,-0.1600,Medium,%
+2026-01-09 12:30:00+00:00,US,U-6 Unemployment Rate (Dec),USD,8.7000,8.8000,8.4000,-0.3000,-3.4480,High,%
+2026-01-09 12:30:00+00:00,US,Unemployment Rate (Dec),USD,4.5000,4.5000,4.4000,-0.1000,-2.2220,High,%
+2026-01-09 14:00:00+00:00,US,Fed Kashkari Speech,USD,,,,,0.0000,Medium,
+2026-01-09 14:00:00+00:00,US,Inflation Expectations (Jan),USD,3.2000,3.3000,3.4000,0.2000,6.2500,Medium,%
+2026-01-09 14:00:00+00:00,US,Michigan 5 Year Inflation Expectations (Jan),USD,3.2000,3.1000,3.4000,0.2000,6.2500,Low,%
+2026-01-09 14:00:00+00:00,US,Michigan Consumer Expectations (Jan),USD,54.6000,54.2000,55.0000,0.4000,0.7330,Low,
+2026-01-09 14:00:00+00:00,US,Michigan Consumer Sentiment (Jan),USD,52.9000,53.5000,54.0000,1.1000,2.0790,High,
+2026-01-09 14:00:00+00:00,US,Michigan Current Conditions (Jan),USD,50.4000,50.5000,52.4000,2.0000,3.9680,Low,
+2026-01-09 14:00:00+00:00,US,Michigan Inflation Expectations (Jan),USD,4.2000,4.2000,4.2000,0.0000,0.0000,Low,%
+2026-01-09 15:30:00+00:00,US,Atlanta Fed GDPNow (Q4),USD,5.4000,5.4000,5.1000,-0.3000,-5.5560,Medium,%
+2026-01-09 17:00:00+00:00,US,Baker Hughes Oil Rig Count (Jan/09),USD,412.0000,,409.0000,-3.0000,-0.7280,Low,
+2026-01-09 17:35:00+00:00,US,Fed Barkin Speech,USD,,,,,0.0000,Medium,
+2026-01-09 19:30:00+00:00,US,CFTC Aluminium Speculative net positions,USD,-2.4000,,-2.7000,-0.3000,-12.5000,Low,K
+2026-01-09 19:30:00+00:00,US,CFTC Copper Speculative net positions,USD,59.8000,,57.9000,-1.9000,-3.1770,Low,K
+2026-01-09 19:30:00+00:00,US,CFTC Corn speculative net positions,USD,53.2000,,60.1000,6.9000,12.9700,Low,K
+2026-01-09 19:30:00+00:00,US,CFTC Crude Oil speculative net positions,USD,64.6000,,57.4000,-7.2000,-11.1460,Medium,K
+2026-01-09 19:30:00+00:00,US,CFTC Gold Speculative net positions,USD,231.2000,,227.6000,-3.6000,-1.5570,Medium,K
+2026-01-09 19:30:00+00:00,US,CFTC Nasdaq 100 speculative net positions,USD,25.1000,,32.6000,7.5000,29.8800,Medium,K
+2026-01-09 19:30:00+00:00,US,CFTC Natural Gas speculative net positions,USD,-154.9000,,-165.6000,-10.7000,-6.9080,Low,K
+2026-01-09 19:30:00+00:00,US,CFTC Silver Speculative net positions,USD,30.1000,,29.3000,-0.8000,-2.6580,Low,K
+2026-01-09 19:30:00+00:00,US,CFTC Soybeans speculative net positions,USD,121.8000,,104.8000,-17.0000,-13.9570,Low,K
+2026-01-09 19:30:00+00:00,US,CFTC S&P 500 speculative net positions,USD,-94.4000,,-106.1000,-11.7000,-12.3940,Medium,K
+2026-01-09 19:30:00+00:00,US,CFTC Wheat speculative net positions,USD,-71.0000,,-88.1000,-17.1000,-24.0850,Low,K
+2026-01-12 14:00:00+00:00,US,CB Employment Trends Index (Dec),USD,104.6400,,104.2700,-0.3700,-0.3540,Low,
+2026-01-12 15:30:00+00:00,US,3-Year Note Auction,USD,3.6140,,3.6090,-0.0050,-0.1380,Low,%
+2026-01-12 15:30:00+00:00,US,6-Month Bill Auction,USD,3.4750,,3.4900,0.0150,0.4320,Low,%
+2026-01-12 16:00:00+00:00,US,Quarterly Grain Stocks - Corn (Dec),USD,1.5500,13.1000,13.2800,11.7300,756.7740,Low,B
+2026-01-12 16:00:00+00:00,US,Quarterly Grain Stocks - Soy (Dec),USD,0.3200,3.2800,3.2900,2.9700,928.1250,Low,B
+2026-01-12 16:00:00+00:00,US,Quarterly Grain Stocks - Wheat (Dec),USD,2.1300,1.6500,1.6800,-0.4500,-21.1270,Low,B
+2026-01-12 16:30:00+00:00,US,Fed Bostic Speech,USD,,,,,0.0000,Medium,
+2026-01-12 16:45:00+00:00,US,Fed Barkin Speech,USD,,,,,0.0000,Medium,
+2026-01-12 17:00:00+00:00,US,10-Year Note Auction,USD,4.1750,,4.1730,-0.0020,-0.0480,Low,%
+2026-01-12 17:00:00+00:00,US,3-Month Bill Auction,USD,3.5400,,3.5700,0.0300,0.8470,Low,%
+2026-01-12 19:30:00+00:00,US,CFTC Aluminium Speculative net positions,USD,-2.4000,,,,0.0000,Low,K
+2026-01-12 19:30:00+00:00,US,CFTC Copper Speculative net positions,USD,59.8000,,,,0.0000,Low,K
+2026-01-12 19:30:00+00:00,US,CFTC Corn speculative net positions,USD,53.2000,,,,0.0000,Low,K
+2026-01-12 19:30:00+00:00,US,CFTC Crude Oil speculative net positions,USD,64.6000,,,,0.0000,Medium,K
+2026-01-12 19:30:00+00:00,US,CFTC Gold Speculative net positions,USD,231.2000,,,,0.0000,Medium,K
+2026-01-12 19:30:00+00:00,US,CFTC Nasdaq 100 speculative net positions,USD,25.1000,,,,0.0000,Medium,K
+2026-01-12 19:30:00+00:00,US,CFTC Natural Gas speculative net positions,USD,-154.9000,,,,0.0000,Low,K
+2026-01-12 19:30:00+00:00,US,CFTC Silver Speculative net positions,USD,30.1000,,,,0.0000,Low,K
+2026-01-12 19:30:00+00:00,US,CFTC Soybeans speculative net positions,USD,121.8000,,,,0.0000,Low,K
+2026-01-12 19:30:00+00:00,US,CFTC S&P 500 speculative net positions,USD,-94.4000,,,,0.0000,Medium,K
+2026-01-12 19:30:00+00:00,US,CFTC Wheat speculative net positions,USD,-71.0000,,,,0.0000,Low,K
+2026-01-12 22:00:00+00:00,US,Fed Williams Speech,USD,,,,,0.0000,Medium,
+2026-01-13 10:00:00+00:00,US,NFIB Business Optimism Index (Dec),USD,99.0000,99.5000,99.5000,0.5000,0.5050,Low,
+2026-01-13 12:30:00+00:00,US,Building Permits (Oct),USD,1.4150,1.4120,1.4110,-0.0040,-0.2830,Low,M
+2026-01-13 12:30:00+00:00,US,Core Inflation Rate MoM (Dec),USD,,0.3000,0.2000,,0.0000,High,
+2026-01-13 12:30:00+00:00,US,Core Inflation Rate YoY (Dec),USD,2.6000,2.7000,2.6000,0.0000,0.0000,High,%
+2026-01-13 12:30:00+00:00,US,CPI (Dec),USD,324.1200,323.8000,324.0500,-0.0700,-0.0220,High,
+2026-01-13 12:30:00+00:00,US,CPI (Oct),USD,0.2500,,,,0.0000,Low,%
+2026-01-13 12:30:00+00:00,US,CPI s.a (Dec),USD,325.0310,325.7000,326.0300,0.9990,0.3070,High,
+2026-01-13 12:30:00+00:00,US,Inflation Rate MoM (Dec),USD,,0.3000,0.3000,,0.0000,High,
+2026-01-13 12:30:00+00:00,US,Inflation Rate YoY (Dec),USD,2.7000,2.7000,2.7000,0.0000,0.0000,High,%
+2026-01-13 12:30:00+00:00,US,Real Earnings MoM (Dec),USD,-0.1000,,-0.3000,-0.2000,-200.0000,Low,%
+2026-01-13 12:30:00+00:00,US,Real Earnings MoM (Oct),USD,-0.1000,,,,0.0000,Low,%
+2026-01-13 12:55:00+00:00,US,Redbook YoY (Jan/10),USD,7.1000,,5.7000,-1.4000,-19.7180,Low,%
+2026-01-13 14:00:00+00:00,US,New Home Sales (Dec),USD,800.0000,710.0000,,,0.0000,High,K
+2026-01-13 14:00:00+00:00,US,New Home Sales (Oct),USD,0.7380,0.7200,0.7370,-0.0010,-0.1360,High,M
+2026-01-13 14:00:00+00:00,US,New Home Sales (Sep),USD,0.7110,0.7200,0.7380,0.0270,3.7970,High,M
+2026-01-13 14:00:00+00:00,US,RCM/TIPP Economic Optimism Index (Jan),USD,47.9000,48.2000,47.2000,-0.7000,-1.4610,Low,
+2026-01-13 14:10:00+00:00,US,IBD/TIPP Economic Optimism (Jan),USD,47.9000,48.2000,47.2000,-0.7000,-1.4610,Low,
+2026-01-13 14:35:00+00:00,US,Fed Musalem Speech,USD,,,,,0.0000,Medium,
+2026-01-13 17:00:00+00:00,US,30-Year Bond Auction,USD,4.7730,,4.8250,0.0520,1.0890,Low,%
+2026-01-13 18:00:00+00:00,US,Budget Balance (Dec),USD,-173.0000,-144.5000,-145.0000,28.0000,16.1850,Medium,B
+2026-01-13 18:00:00+00:00,US,Monthly Budget Statement (Dec),USD,-173.0000,-150.0000,-145.0000,28.0000,16.1850,Medium,B
+2026-01-13 20:00:00+00:00,US,Fed Barkin Speech,USD,,,,,0.0000,Medium,
+2026-01-13 20:30:00+00:00,US,API Crude Oil Stock Change (Jan/09),USD,-2.8000,-2.0000,5.2700,8.0700,288.2140,Medium,M
+2026-01-14 11:00:00+00:00,US,MBA 30-Year Mortgage Rate (Jan/09),USD,6.2500,,6.1800,-0.0700,-1.1200,Medium,%
+2026-01-14 11:00:00+00:00,US,MBA Mortgage Applications (Jan/09),USD,0.3000,,28.5000,28.2000,9400.0000,Low,%
+2026-01-14 11:00:00+00:00,US,MBA Mortgage Market Index (Jan/09),USD,270.8000,,348.0000,77.2000,28.5080,Low,
+2026-01-14 11:00:00+00:00,US,MBA Mortgage Refinance Index (Jan/09),USD,937.0000,,1313.1000,376.1000,40.1390,Low,
+2026-01-14 11:00:00+00:00,US,MBA Purchase Index (Jan/09),USD,159.3000,,184.6000,25.3000,15.8820,Low,
+2026-01-14 12:30:00+00:00,US,Core PPI MoM (Dec),USD,,,,,0.0000,Medium,
+2026-01-14 12:30:00+00:00,US,Core PPI MoM (Nov),USD,0.3000,0.2000,0.0000,-0.3000,-100.0000,Medium,%
+2026-01-14 12:30:00+00:00,US,Core PPI MoM (Oct),USD,0.4000,0.2000,0.3000,-0.1000,-25.0000,Medium,%
+2026-01-14 12:30:00+00:00,US,Core PPI YoY (Dec),USD,,,,,0.0000,Low,
+2026-01-14 12:30:00+00:00,US,Core PPI YoY (Nov),USD,2.9000,2.7000,3.0000,0.1000,3.4480,Low,%
+2026-01-14 12:30:00+00:00,US,Core PPI YoY (Oct),USD,2.9000,2.6000,2.9000,0.0000,0.0000,Low,%
+2026-01-14 12:30:00+00:00,US,Current Account (Q3),USD,-249.2000,-238.4000,-226.4000,22.8000,9.1490,Medium,B
+2026-01-14 12:30:00+00:00,US,"PPI Ex Food, Energy and Trade MoM (Dec)",USD,,,,,0.0000,Low,
+2026-01-14 12:30:00+00:00,US,"PPI Ex Food, Energy and Trade MoM (Nov)",USD,0.7000,0.2000,0.2000,-0.5000,-71.4290,Low,%
+2026-01-14 12:30:00+00:00,US,"PPI Ex Food, Energy and Trade MoM (Oct)",USD,0.2000,0.2000,0.7000,0.5000,250.0000,Low,%
+2026-01-14 12:30:00+00:00,US,"PPI Ex Food, Energy and Trade YoY (Dec)",USD,,,,,0.0000,Low,
+2026-01-14 12:30:00+00:00,US,"PPI Ex Food, Energy and Trade YoY (Nov)",USD,3.4000,2.8000,3.5000,0.1000,2.9410,Low,%
+2026-01-14 12:30:00+00:00,US,"PPI Ex Food, Energy and Trade YoY (Oct)",USD,3.0000,2.9000,3.4000,0.4000,13.3330,Low,%
+2026-01-14 12:30:00+00:00,US,Producer Price Index (Dec),USD,,151.4000,,,0.0000,Low,
+2026-01-14 12:30:00+00:00,US,Producer Price Index MoM,USD,0.1000,,0.2000,0.1000,100.0000,High,%
+2026-01-14 12:30:00+00:00,US,Producer Price Index MoM (Dec),USD,,,,,0.0000,High,
+2026-01-14 12:30:00+00:00,US,Producer Price Index MoM (Nov),USD,0.1000,0.2000,0.2000,0.1000,100.0000,High,%
+2026-01-14 12:30:00+00:00,US,Producer Price Index MoM (Oct),USD,0.6000,0.3000,0.1000,-0.5000,-83.3330,High,%
+2026-01-14 12:30:00+00:00,US,Producer Price Index (Nov),USD,150.3320,150.5000,150.7050,0.3730,0.2480,Low,
+2026-01-14 12:30:00+00:00,US,Producer Price Index (Oct),USD,150.1570,150.2000,150.3320,0.1750,0.1170,Low,
+2026-01-14 12:30:00+00:00,US,Producer Price Index YoY,USD,2.8000,,3.0000,0.2000,7.1430,Low,%
+2026-01-14 12:30:00+00:00,US,Producer Price Index YoY (Dec),USD,,,,,0.0000,Low,
+2026-01-14 12:30:00+00:00,US,Producer Price Index YoY (Nov),USD,2.8000,2.7000,3.0000,0.2000,7.1430,Low,%
+2026-01-14 12:30:00+00:00,US,Producer Price Index YoY (Oct),USD,3.0000,2.7000,2.8000,-0.2000,-6.6670,Low,%
+2026-01-14 12:30:00+00:00,US,Retail Sales Ex Autos MoM (Nov),USD,0.2000,0.4000,0.5000,0.3000,150.0000,High,%
+2026-01-14 12:30:00+00:00,US,Retail Sales Ex Gas/Autos MoM (Nov),USD,0.4000,0.1000,0.4000,0.0000,0.0000,High,%
+2026-01-14 12:30:00+00:00,US,Retail Sales MoM (Nov),USD,-0.1000,0.4000,0.6000,0.7000,700.0000,High,%
+2026-01-14 12:30:00+00:00,US,Retail Sales YoY (Nov),USD,3.3000,3.0000,3.3000,0.0700,2.1470,High,%
+2026-01-14 14:00:00+00:00,US,Business Inventories MoM (Oct),USD,0.3000,0.2000,0.3000,0.0000,0.0000,Medium,%
+2026-01-14 14:00:00+00:00,US,Existing Home Sales (Dec),USD,4.1400,4.2100,4.3500,0.2100,5.0720,High,M
+2026-01-14 14:00:00+00:00,US,Existing Home Sales MoM,USD,0.7000,-1.6000,5.1000,4.4000,628.5710,High,%
+2026-01-14 14:00:00+00:00,US,Retail Inventories Ex Autos MoM (Oct),USD,0.1000,-0.1000,0.3000,0.2000,200.0000,Low,%
+2026-01-14 14:30:00+00:00,US,EIA Crude Oil Imports Change (Jan/09),USD,0.5630,,0.7100,0.1470,26.1100,Low,M
+2026-01-14 14:30:00+00:00,US,EIA Crude Oil Stocks Change (Jan/09),USD,-3.8310,-2.2000,3.3910,7.2220,188.5150,Medium,M
+2026-01-14 14:30:00+00:00,US,EIA Cushing Crude Oil Stocks Change (Jan/09),USD,0.7280,,0.7450,0.0170,2.3350,Low,M
+2026-01-14 14:30:00+00:00,US,EIA Distillate Fuel Production Change (Jan/09),USD,0.0810,,-0.0190,-0.1000,-123.4570,Low,M
+2026-01-14 14:30:00+00:00,US,EIA Distillate Stocks Change (Jan/09),USD,5.5940,-0.2000,-0.0290,-5.6230,-100.5180,Low,M
+2026-01-14 14:30:00+00:00,US,EIA Gasoline Production Change (Jan/09),USD,-0.4720,,0.0290,0.5010,106.1440,Low,M
+2026-01-14 14:30:00+00:00,US,EIA Gasoline Stocks Change (Jan/09),USD,7.7020,4.0000,8.9770,1.2750,16.5540,Medium,M
+2026-01-14 14:30:00+00:00,US,EIA Heating Oil Stocks Change (Jan/09),USD,0.6720,,-0.7450,-1.4170,-210.8630,Low,M
+2026-01-14 14:30:00+00:00,US,EIA Refinery Crude Runs Change (Jan/09),USD,0.0620,,0.0490,-0.0130,-20.9680,Low,M
+2026-01-14 14:30:00+00:00,US,EIA Weekly Refinery Utilization Rates WoW,USD,0.0000,,0.6000,0.6000,0.0000,Low,%
+2026-01-14 14:30:00+00:00,US,Imports,USD,0.5630,,0.7100,0.1470,26.1100,Low,M
+2026-01-14 15:00:00+00:00,US,Thomson Reuters IPSOS PCSI (Jan),USD,51.8600,,53.8100,1.9500,3.7600,Low,
+2026-01-14 15:30:00+00:00,US,17-Week Bill Auction,USD,3.5100,,3.5600,0.0500,1.4250,Low,%
+2026-01-14 16:00:00+00:00,US,Fed Bostic Speech,USD,,,,,0.0000,Medium,
+2026-01-14 16:00:00+00:00,US,Fed Kashkari Speech,USD,,,,,0.0000,Medium,
+2026-01-14 16:30:00+00:00,US,Atlanta Fed GDPNow (Q4),USD,5.1000,5.1000,5.3000,0.2000,3.9220,Medium,%
+2026-01-14 18:00:00+00:00,US,Beige Book,USD,,,,,0.0000,Medium,
+2026-01-14 18:00:00+00:00,US,Fed Beige Book,USD,,,,,0.0000,Medium,
+2026-01-14 18:10:00+00:00,US,Fed Williams Speech,USD,,,,,0.0000,Medium,
+2026-01-14 19:30:00+00:00,US,CFTC Nasdaq 100 speculative net positions,USD,31.8000,,,,0.0000,Medium,K
+2026-01-14 19:30:00+00:00,US,CFTC S&P 500 speculative net positions,USD,-81.8000,,,,0.0000,Medium,K
+2026-01-15 12:30:00+00:00,US,Continuing Jobless Claims (Jan/03),USD,1903.0000,1890.0000,1884.0000,-19.0000,-0.9980,High,K
+2026-01-15 12:30:00+00:00,US,Export Prices MoM (Dec),USD,,,,,0.0000,Medium,
+2026-01-15 12:30:00+00:00,US,Export Prices MoM (Nov),USD,,0.2000,,,0.0000,Medium,
+2026-01-15 12:30:00+00:00,US,Export Prices MoM (Oct),USD,0.0000,-0.1000,,,0.0000,Medium,%
+2026-01-15 12:30:00+00:00,US,Export Prices YoY (Dec),USD,,,,,0.0000,Low,
+2026-01-15 12:30:00+00:00,US,Export Prices YoY (Nov),USD,,2.3000,3.3000,,0.0000,Low,
+2026-01-15 12:30:00+00:00,US,Export Prices YoY (Oct),USD,3.8000,3.0000,,,0.0000,Low,%
+2026-01-15 12:30:00+00:00,US,Import Prices MoM (Dec),USD,,,,,0.0000,Medium,
+2026-01-15 12:30:00+00:00,US,Import Prices MoM (Nov),USD,0.0000,-0.1000,0.4000,0.4000,0.0000,Medium,
+2026-01-15 12:30:00+00:00,US,Import Prices MoM (Oct),USD,0.0000,0.1000,,,0.0000,Medium,%
+2026-01-15 12:30:00+00:00,US,Import Prices YoY (Dec),USD,,,,,0.0000,Low,
+2026-01-15 12:30:00+00:00,US,Import Prices YoY (Nov),USD,0.3000,0.4000,0.1000,-0.2000,-66.6670,Low,
+2026-01-15 12:30:00+00:00,US,Import Prices YoY (Oct),USD,0.3000,0.5000,,,0.0000,Low,%
+2026-01-15 12:30:00+00:00,US,Initial Jobless Claims (Jan/10),USD,207.0000,215.0000,198.0000,-9.0000,-4.3480,High,K
+2026-01-15 12:30:00+00:00,US,Jobless Claims 4-Week Average (Jan/10),USD,211.5000,215.0000,205.0000,-6.5000,-3.0730,High,K
+2026-01-15 12:30:00+00:00,US,NY Empire State Manufacturing Index (Jan),USD,-3.7000,1.0000,7.7000,11.4000,308.1080,High,
+2026-01-15 12:30:00+00:00,US,Philadelphia Fed Manufacturing Index (Jan),USD,-8.8000,-2.0000,12.6000,21.4000,243.1820,Medium,
+2026-01-15 12:30:00+00:00,US,Philly Fed Business Conditions (Jan),USD,38.1000,,25.5000,-12.6000,-33.0710,Low,
+2026-01-15 12:30:00+00:00,US,Philly Fed CAPEX Index (Jan),USD,29.1000,,30.3000,1.2000,4.1240,Low,
+2026-01-15 12:30:00+00:00,US,Philly Fed Employment (Jan),USD,13.0000,,9.7000,-3.3000,-25.3850,Low,
+2026-01-15 12:30:00+00:00,US,Philly Fed New Orders (Jan),USD,5.7000,,14.4000,8.7000,152.6320,Low,
+2026-01-15 12:30:00+00:00,US,Philly Fed Prices Paid (Jan),USD,49.3000,,46.9000,-2.4000,-4.8680,Low,
+2026-01-15 12:30:00+00:00,US,Retail Sales Ex Autos MoM (Dec),USD,,,,,0.0000,High,
+2026-01-15 12:30:00+00:00,US,Retail Sales Ex Gas/Autos MoM (Dec),USD,,,,,0.0000,High,
+2026-01-15 12:30:00+00:00,US,Retail Sales MoM (Dec),USD,,,,,0.0000,High,
+2026-01-15 12:30:00+00:00,US,Retail Sales YoY (Dec),USD,,,,,0.0000,High,
+2026-01-15 12:35:00+00:00,US,Fed Bostic Speech,USD,,,,,0.0000,Medium,
+2026-01-15 13:15:00+00:00,US,Fed Barr Speech,USD,,,,,0.0000,Medium,
+2026-01-15 14:00:00+00:00,US,Business Inventories MoM (Nov),USD,,,,,0.0000,Medium,
+2026-01-15 14:00:00+00:00,US,Retail Inventories Ex Autos MoM (Nov),USD,,,,,0.0000,Low,
+2026-01-15 14:30:00+00:00,US,EIA Natural Gas Stocks Change (Jan/09),USD,-119.0000,-90.0000,-71.0000,48.0000,40.3360,Low,B
+2026-01-15 15:30:00+00:00,US,4-Week Bill Auction,USD,3.5500,,3.5950,0.0450,1.2680,Low,%
+2026-01-15 15:30:00+00:00,US,8-Week Bill Auction,USD,3.5400,,3.6000,0.0600,1.6950,Low,%
+2026-01-15 16:00:00+00:00,US,15-Year Mortgage Rate (Jan/15),USD,5.4600,,5.3800,-0.0800,-1.4650,Low,%
+2026-01-15 16:00:00+00:00,US,30-Year Mortgage Rate (Jan/15),USD,6.1600,,6.0600,-0.1000,-1.6230,Low,%
+2026-01-15 16:40:00+00:00,US,Fed Barkin Speech,USD,,,,,0.0000,Medium,
+2026-01-15 17:30:00+00:00,US,Fed Schmid Speech,USD,,,,,0.0000,Low,
+2026-01-15 20:00:00+00:00,US,Foreign Bond Investment (Nov),USD,-60.1000,,85.6000,145.7000,242.4290,Low,
+2026-01-15 20:00:00+00:00,US,Net Long-Term TIC Flows (Nov),USD,30.9000,,220.2000,189.3000,612.6210,Medium,
+2026-01-15 20:00:00+00:00,US,Overall Net Capital Flows (Nov),USD,-22.5000,,212.0000,234.5000,1042.2220,Low,
+2026-01-15 20:30:00+00:00,US,Fed Balance Sheet (Jan/14),USD,6.5700,,6.5800,0.0100,0.1520,Low,T
+2026-01-16 13:15:00+00:00,US,Capacity Utilization (Dec),USD,76.0000,76.0000,76.3000,0.2000,0.2630,Low,%
+2026-01-16 13:15:00+00:00,US,Industrial Production MoM (Dec),USD,0.2000,0.1000,0.4000,0.0000,0.0000,Medium,%
+2026-01-16 13:15:00+00:00,US,Industrial Production YoY (Dec),USD,2.5000,2.7000,2.0000,-0.6900,-25.7460,Low,%
+2026-01-16 13:15:00+00:00,US,Manufacturing Production MoM (Dec),USD,0.3000,-0.2000,0.2000,-0.1000,-33.3330,Low,%
+2026-01-16 13:15:00+00:00,US,Manufacturing Production YoY (Dec),USD,1.9000,2.0000,2.0000,,0.0000,Low,%
+2026-01-16 14:00:00+00:00,US,NAHB Housing Market Index (Jan),USD,39.0000,40.0000,37.0000,-2.0000,-5.1280,Medium,
+2026-01-16 14:50:00+00:00,US,Fed Collins Speech,USD,,,,,0.0000,Medium,
+2026-01-16 15:00:00+00:00,US,Fed Bowman Speech,USD,,,,,0.0000,Medium,
+2026-01-16 17:00:00+00:00,US,Baker Hughes Oil Rig Count (Jan/16),USD,409.0000,,410.0000,1.0000,0.2440,Low,
+2026-01-16 19:30:00+00:00,US,CFTC Aluminium Speculative net positions,USD,-2.7000,,-3.3000,-0.6000,-22.2220,Low,K
+2026-01-16 19:30:00+00:00,US,CFTC Copper Speculative net positions,USD,57.9000,,53.4000,-4.5000,-7.7720,Low,K
+2026-01-16 19:30:00+00:00,US,CFTC Corn speculative net positions,USD,60.1000,,-33.4000,-93.5000,-155.5740,Low,K
+2026-01-16 19:30:00+00:00,US,CFTC Crude Oil speculative net positions,USD,57.4000,,58.1000,0.7000,1.2200,Medium,K
+2026-01-16 19:30:00+00:00,US,CFTC Gold Speculative net positions,USD,227.6000,,251.2000,23.6000,10.3690,Medium,K
+2026-01-16 19:30:00+00:00,US,CFTC Nasdaq 100 speculative net positions,USD,32.6000,,29.1000,-3.5000,-10.7360,Medium,K
+2026-01-16 19:30:00+00:00,US,CFTC Natural Gas speculative net positions,USD,-165.6000,,-185.6000,-20.0000,-12.0770,Low,K
+2026-01-16 19:30:00+00:00,US,CFTC Silver Speculative net positions,USD,29.3000,,32.1000,2.8000,9.5560,Low,K
+2026-01-16 19:30:00+00:00,US,CFTC Soybeans speculative net positions,USD,104.8000,,58.9000,-45.9000,-43.7980,Low,K
+2026-01-16 19:30:00+00:00,US,CFTC S&P 500 speculative net positions,USD,-106.1000,,-122.1000,-16.0000,-15.0800,Medium,K
+2026-01-16 19:30:00+00:00,US,CFTC Wheat speculative net positions,USD,-88.1000,,-86.0000,2.1000,2.3840,Low,K
+2026-01-16 19:30:00+00:00,US,Fed Jefferson Speech,USD,,,,,0.0000,Medium,
+2026-01-18 23:00:00+00:00,US,Martin L. King's Birthday,USD,,,,,0.0000,None,
+2026-01-19 15:30:00+00:00,US,3-Month Bill Auction,USD,3.5700,,,,0.0000,Low,%
+2026-01-19 15:30:00+00:00,US,6-Month Bill Auction,USD,3.4900,,,,0.0000,Low,%
+2026-01-20 15:30:00+00:00,US,3-Month Bill Auction,USD,3.5700,,3.5900,0.0200,0.5600,Low,%
+2026-01-20 15:30:00+00:00,US,52-Week Bill Auction,USD,3.3800,,3.3900,0.0100,0.2960,Low,%
+2026-01-20 15:30:00+00:00,US,6-Month Bill Auction,USD,3.4900,,3.5200,0.0300,0.8600,Low,%
+2026-01-20 20:30:00+00:00,US,API Crude Oil Stock Change (Jan/16),USD,5.2700,,3.0400,-2.2300,-42.3150,Medium,
+2026-01-21 11:00:00+00:00,US,MBA 30-Year Mortgage Rate (Jan/16),USD,6.1800,,6.1600,-0.0200,-0.3240,Medium,
+2026-01-21 11:00:00+00:00,US,MBA Mortgage Applications (Jan/16),USD,28.5000,,14.1000,-14.4000,-50.5260,Low,
+2026-01-21 11:00:00+00:00,US,MBA Mortgage Market Index (Jan/16),USD,348.0000,,397.2000,49.2000,14.1380,Low,
+2026-01-21 11:00:00+00:00,US,MBA Mortgage Refinance Index (Jan/16),USD,1313.1000,,1580.8000,267.7000,20.3870,Low,
+2026-01-21 11:00:00+00:00,US,MBA Purchase Index (Jan/16),USD,184.6000,,194.1000,9.5000,5.1460,Low,
+2026-01-21 12:30:00+00:00,US,Building Permits (Dec),USD,,,,,0.0000,High,
+2026-01-21 12:30:00+00:00,US,Housing Starts (Dec),USD,,,,,0.0000,High,
+2026-01-21 12:30:00+00:00,US,Housing Starts MoM (Dec),USD,,,,,0.0000,Medium,
+2026-01-21 12:55:00+00:00,US,Redbook YoY (Jan/17),USD,5.7000,,5.5000,-0.2000,-3.5090,Low,%
+2026-01-21 13:30:00+00:00,US,Building Permits (Dec),USD,,,,,0,High,
+2026-01-21 13:30:00+00:00,US,Housing Starts (Dec),USD,,,,,0,High,
+2026-01-21 14:00:00+00:00,US,Construction Spending MoM (Oct),USD,-0.6000,0.1000,0.5000,1.1000,183.3330,Low,
+2026-01-21 14:00:00+00:00,US,Construction Spending MoM (Sep),USD,0.2000,-0.1000,-0.6000,-1.0000,-250.0000,Low,%
+2026-01-21 14:00:00+00:00,US,Pending Home Sales MoM (Dec),USD,3.3000,1.4000,-9.3000,-12.6000,-381.8180,Medium,%
+2026-01-21 14:00:00+00:00,US,Pending Home Sales YoY (Dec),USD,2.6000,0.2000,-3.0000,-5.6000,-215.3850,Medium,%
+2026-01-21 14:30:00+00:00,US,EIA Crude Oil Imports Change (Jan/16),USD,,,,,0.0000,Low,
+2026-01-21 14:30:00+00:00,US,EIA Crude Oil Stocks Change (Jan/16),USD,,,,,0.0000,Medium,
+2026-01-21 14:30:00+00:00,US,EIA Cushing Crude Oil Stocks Change (Jan/16),USD,,,,,0.0000,Low,
+2026-01-21 14:30:00+00:00,US,EIA Distillate Fuel Production Change (Jan/16),USD,,,,,0.0000,Low,
+2026-01-21 14:30:00+00:00,US,EIA Distillate Stocks Change (Jan/16),USD,,,,,0.0000,Low,
+2026-01-21 14:30:00+00:00,US,EIA Gasoline Production Change (Jan/16),USD,,,,,0.0000,Low,
+2026-01-21 14:30:00+00:00,US,EIA Gasoline Stocks Change (Jan/16),USD,,,,,0.0000,Medium,
+2026-01-21 14:30:00+00:00,US,EIA Heating Oil Stocks Change (Jan/16),USD,,,,,0.0000,Low,
+2026-01-21 14:30:00+00:00,US,EIA Refinery Crude Runs Change (Jan/16),USD,,,,,0.0000,Low,
+2026-01-21 15:30:00+00:00,US,17-Week Bill Auction,USD,3.5600,,3.5800,0.0200,0.5620,Low,%
+2026-01-21 15:30:00+00:00,US,Atlanta Fed GDPNow (Q4),USD,5.3000,5.3000,5.4000,0.1000,1.8870,Medium,%
+2026-01-21 16:30:00+00:00,US,Atlanta Fed GDPNow (Q4),USD,5.3,5.3,5.4,0.1,1.887,High,%
+2026-01-21 17:00:00+00:00,US,20-Year Bond Auction,USD,4.7980,,4.8460,0.0480,1.0000,Low,%
+2026-01-22 12:30:00+00:00,US,Continuing Jobless Claims (Jan/10),USD,1884.0000,1880.0000,1849.0000,,0.0000,High,K
+2026-01-22 12:30:00+00:00,US,Core PCE Prices QoQ (Q3),USD,2.6000,2.9000,2.9000,0.3000,11.5380,Low,%
+2026-01-22 12:30:00+00:00,US,Corporate Profits QoQ (Q3),USD,0.2000,4.4000,4.7000,4.5000,2250.0000,Low,%
+2026-01-22 12:30:00+00:00,US,GDP Growth Rate QoQ (Q3),USD,3.8000,4.3000,4.4000,0.6000,15.7890,High,%
+2026-01-22 12:30:00+00:00,US,GDP Price Index QoQ (Q3),USD,2.1000,3.7000,3.7000,1.6000,76.1900,Medium,%
+2026-01-22 12:30:00+00:00,US,GDP Sales QoQ (Q3),USD,7.5000,4.6000,4.5000,-3.0000,-40.0000,Low,%
+2026-01-22 12:30:00+00:00,US,Gross Domestic Product QoQ (Q3),USD,3.8000,4.3000,4.4000,0.6000,15.7890,High,%
+2026-01-22 12:30:00+00:00,US,Initial Jobless Claims (Jan/17),USD,198.0000,195.0000,200.0000,,0.0000,High,K
+2026-01-22 12:30:00+00:00,US,Jobless Claims 4-Week Average (Jan/17),USD,205.0000,203.0000,201.5000,,0.0000,High,K
+2026-01-22 12:30:00+00:00,US,PCE Prices QoQ (Q3),USD,2.1000,2.8000,2.8000,0.7000,33.3330,Low,%
+2026-01-22 12:30:00+00:00,US,Real Consumer Spending (Q3),USD,2.5000,3.5000,3.5000,1.0000,40.0000,Low,%
+2026-01-22 12:30:00+00:00,US,Real Consumer Spending QoQ (Q3),USD,2.5000,3.5000,3.5000,1.0000,40.0000,Low,%
+2026-01-22 13:30:00+00:00,US,Continuing Jobless Claims (Jan/10),USD,1884,1880,1849,,0,High,K
+2026-01-22 13:30:00+00:00,US,GDP Growth Rate QoQ (Q3),USD,3.8,4.3,4.4,0.6,15.789,High,%
+2026-01-22 13:30:00+00:00,US,GDP Price Index QoQ (Q3),USD,2.1,3.7,3.7,1.6,76.19,High,%
+2026-01-22 13:30:00+00:00,US,GDP Sales QoQ (Q3),USD,7.5,4.6,4.5,-3,-40,High,%
+2026-01-22 13:30:00+00:00,US,Gross Domestic Product QoQ (Q3),USD,3.8,4.3,4.4,0.6,15.789,High,%
+2026-01-22 13:30:00+00:00,US,Initial Jobless Claims (Jan/17),USD,198,195,200,,0,High,K
+2026-01-22 13:30:00+00:00,US,Jobless Claims 4-Week Average (Jan/17),USD,205,203,201.5,,0,High,K
+2026-01-22 13:55:00+00:00,US,PCE Price Index MoM,USD,0.2000,,0.2000,0.0000,0.0000,High,%
+2026-01-22 13:55:00+00:00,US,PCE Price Index YoY,USD,2.8000,,2.7000,-0.1000,-3.5710,High,%
+2026-01-22 13:55:00+00:00,US,Personal Income MoM,USD,0.4000,,0.1000,-0.3000,-75.0000,Low,%
+2026-01-22 13:55:00+00:00,US,Personal Spending MoM,USD,0.3000,,0.5000,0.2000,66.6670,Medium,%
+2026-01-22 14:00:00+00:00,US,Core PCE Price Index MoM (Nov),USD,0.2000,0.1000,0.2000,0.0000,0.0000,High,
+2026-01-22 14:00:00+00:00,US,Core PCE Price Index MoM (Oct),USD,0.2000,0.1000,0.2000,0.0000,0.0000,High,%
+2026-01-22 14:00:00+00:00,US,Core PCE Price Index YoY (Nov),USD,2.7000,2.7000,2.8000,0.1000,3.7040,High,
+2026-01-22 14:00:00+00:00,US,Core PCE Price Index YoY (Oct),USD,2.8000,2.8000,2.7000,-0.1000,-3.5710,High,%
+2026-01-22 14:00:00+00:00,US,PCE Price Index MoM (Nov),USD,0.2000,0.2000,0.2000,0.0000,0.0000,Medium,
+2026-01-22 14:00:00+00:00,US,PCE Price Index MoM (Oct),USD,0.3000,0.2000,0.2000,-0.1000,-33.3330,Medium,%
+2026-01-22 14:00:00+00:00,US,PCE Price Index YoY (Nov),USD,2.7000,2.7000,2.8000,0.1000,3.7040,Medium,
+2026-01-22 14:00:00+00:00,US,PCE Price Index YoY (Oct),USD,2.8000,2.7000,2.7000,-0.1000,-3.5710,Medium,%
+2026-01-22 14:00:00+00:00,US,Personal Income MoM (Nov),USD,0.1000,0.3000,0.3000,0.2000,200.0000,High,
+2026-01-22 14:00:00+00:00,US,Personal Income MoM (Oct),USD,0.4000,0.3000,0.1000,-0.3000,-75.0000,High,%
+2026-01-22 14:00:00+00:00,US,Personal Spending MoM (Nov),USD,0.5000,0.4000,0.5000,0.0000,0.0000,High,
+2026-01-22 14:00:00+00:00,US,Personal Spending MoM (Oct),USD,0.3000,0.1000,0.5000,0.2000,66.6670,High,%
+2026-01-22 14:30:00+00:00,US,EIA Natural Gas Stocks Change (Jan/16),USD,-71.0000,,,,0.0000,Low,
+2026-01-22 14:55:00+00:00,US,PCE Price Index MoM,USD,0.2,,0.2,0,0,High,%
+2026-01-22 14:55:00+00:00,US,PCE Price Index YoY,USD,2.8,,2.7,-0.1,-3.571,High,%
+2026-01-22 15:00:00+00:00,US,Core PCE Price Index MoM (Nov),USD,0.2,0.1,0.2,0,0,High,
+2026-01-22 15:00:00+00:00,US,Core PCE Price Index MoM (Oct),USD,0.2,0.1,0.2,0,0,High,%
+2026-01-22 15:00:00+00:00,US,Core PCE Price Index YoY (Nov),USD,2.7,2.7,2.8,0.1,3.704,High,
+2026-01-22 15:00:00+00:00,US,Core PCE Price Index YoY (Oct),USD,2.8,2.8,2.7,-0.1,-3.571,High,%
+2026-01-22 15:00:00+00:00,US,Kansas Fed Composite Index (Jan),USD,1.0000,4.0000,0.0000,,0.0000,Low,
+2026-01-22 15:00:00+00:00,US,Kansas Fed Manufacturing Index (Jan),USD,-3.0000,5.0000,-2.0000,1.0000,33.3330,Low,
+2026-01-22 15:00:00+00:00,US,PCE Price Index MoM (Nov),USD,0.2,0.2,0.2,0,0,High,
+2026-01-22 15:00:00+00:00,US,PCE Price Index MoM (Oct),USD,0.3,0.2,0.2,-0.1,-33.333,High,%
+2026-01-22 15:00:00+00:00,US,PCE Price Index YoY (Nov),USD,2.7,2.7,2.8,0.1,3.704,High,
+2026-01-22 15:00:00+00:00,US,PCE Price Index YoY (Oct),USD,2.8,2.7,2.7,-0.1,-3.571,High,%
+2026-01-22 15:00:00+00:00,US,Personal Income MoM (Nov),USD,0.1,0.3,0.3,0.2,200,High,
+2026-01-22 15:00:00+00:00,US,Personal Income MoM (Oct),USD,0.4,0.3,0.1,-0.3,-75,High,%
+2026-01-22 15:00:00+00:00,US,Personal Spending MoM (Nov),USD,0.5,0.4,0.5,0,0,High,
+2026-01-22 15:00:00+00:00,US,Personal Spending MoM (Oct),USD,0.3,0.1,0.5,0.2,66.667,High,%
+2026-01-22 15:30:00+00:00,US,4-Week Bill Auction,USD,3.5950,,3.6300,0.0350,0.9740,Low,%
+2026-01-22 15:30:00+00:00,US,8-Week Bill Auction,USD,3.6000,,3.6300,0.0300,0.8330,Low,%
+2026-01-22 16:00:00+00:00,US,15-Year Mortgage Rate (Jan/22),USD,5.3800,,5.4400,0.0600,1.1150,Low,
+2026-01-22 16:00:00+00:00,US,30-Year Mortgage Rate (Jan/22),USD,6.0600,,6.0900,0.0300,0.4950,Low,
+2026-01-22 16:00:00+00:00,US,Atlanta Fed GDPNow (Q4),USD,5.4000,5.4000,5.4000,0.0000,0.0000,Medium,%
+2026-01-22 16:00:00+00:00,US,EIA Crude Oil Imports Change (Jan/16),USD,0.7100,,-0.0270,-0.7370,-103.8030,Low,
+2026-01-22 16:00:00+00:00,US,EIA Crude Oil Stocks Change (Jan/16),USD,3.3910,,3.6020,0.2110,6.2220,Medium,
+2026-01-22 16:00:00+00:00,US,EIA Cushing Crude Oil Stocks Change (Jan/16),USD,0.7450,,1.4780,0.7330,98.3890,Low,
+2026-01-22 16:00:00+00:00,US,EIA Distillate Fuel Production Change (Jan/16),USD,-0.0190,,-0.2090,-0.1900,-1000.0000,Low,
+2026-01-22 16:00:00+00:00,US,EIA Distillate Stocks Change (Jan/16),USD,-0.0290,,3.3480,3.3770,11644.8280,Low,
+2026-01-22 16:00:00+00:00,US,EIA Gasoline Production Change (Jan/16),USD,0.0290,,-0.2460,-0.2750,-948.2760,Low,
+2026-01-22 16:00:00+00:00,US,EIA Gasoline Stocks Change (Jan/16),USD,8.9770,,5.9770,-3.0000,-33.4190,Medium,
+2026-01-22 16:00:00+00:00,US,EIA Heating Oil Stocks Change (Jan/16),USD,-0.7450,,0.2790,1.0240,137.4500,Low,
+2026-01-22 16:00:00+00:00,US,EIA Refinery Crude Runs Change (Jan/16),USD,0.0490,,-0.3540,-0.4030,-822.4490,Low,
+2026-01-22 16:00:00+00:00,US,EIA Weekly Refinery Utilization Rates WoW,USD,0.6000,,-2.0000,-2.6000,-433.3330,Low,%
+2026-01-22 16:00:00+00:00,US,Imports,USD,0.7100,,-0.0270,-0.7370,-103.8030,Low,M
+2026-01-22 17:00:00+00:00,US,10-Year TIPS Auction,USD,1.8430,,1.9400,0.0970,5.2630,Low,%
+2026-01-22 17:00:00+00:00,US,Atlanta Fed GDPNow (Q4),USD,5.4,5.4,5.4,0,0,High,%
+2026-01-22 20:30:00+00:00,US,Fed Balance Sheet (Jan/21),USD,6.5800,,,,0.0000,Low,T
+2026-01-23 13:45:00+00:00,US,S&P Global Composite PMI Flash (Jan),USD,52.7000,52.8000,,,0.0000,Medium,
+2026-01-23 13:45:00+00:00,US,S&P Global Composite PMI (Jan),USD,52.7000,,,,0.0000,Medium,
+2026-01-23 13:45:00+00:00,US,S&P Global Manufacturing PMI Flash (Jan),USD,51.8000,52.0000,,,0.0000,Medium,
+2026-01-23 13:45:00+00:00,US,S&P Global Manufacturing PMI (Jan),USD,51.8000,51.9000,,,0.0000,High,
+2026-01-23 13:45:00+00:00,US,S&P Global Services PMI Flash (Jan),USD,52.5000,52.3000,,,0.0000,Medium,
+2026-01-23 13:45:00+00:00,US,S&P Global Services PMI (Jan),USD,52.5000,52.9000,,,0.0000,High,
+2026-01-23 14:00:00+00:00,US,Inflation Expectations (Jan),USD,3.4000,3.4000,,,0.0000,Medium,%
+2026-01-23 14:00:00+00:00,US,Leading Index MoM (Nov),USD,-0.3000,,,,0.0000,Medium,%
+2026-01-23 14:00:00+00:00,US,Michigan 5 Year Inflation Expectations (Jan),USD,3.2000,3.4000,,,0.0000,Low,%
+2026-01-23 14:00:00+00:00,US,Michigan Consumer Expectations (Jan),USD,54.6000,55.0000,,,0.0000,Low,
+2026-01-23 14:00:00+00:00,US,Michigan Consumer Sentiment (Jan),USD,52.9000,54.0000,,,0.0000,High,
+2026-01-23 14:00:00+00:00,US,Michigan Current Conditions (Jan),USD,50.4000,52.4000,,,0.0000,Low,
+2026-01-23 14:00:00+00:00,US,Michigan Inflation Expectations (Jan),USD,4.2000,4.2000,,,0.0000,Low,%
+2026-01-23 14:45:00+00:00,US,S&P Global Manufacturing PMI (Jan),USD,51.8,51.9,51.9,0.1,0.193,High,
+2026-01-23 14:45:00+00:00,US,S&P Global Services PMI (Jan),USD,52.5,52.9,52.5,0,0,High,
+2026-01-23 15:00:00+00:00,US,Michigan Consumer Sentiment (Jan),USD,52.9,54,56.4,3.5,6.616,High,
+2026-01-23 17:00:00+00:00,US,Baker Hughes Oil Rig Count (Jan/23),USD,410.0000,,,,0.0000,Low,
+2026-01-23 19:30:00+00:00,US,CFTC Aluminium Speculative net positions,USD,-3.3000,,,,0.0000,Low,K
+2026-01-23 19:30:00+00:00,US,CFTC Copper Speculative net positions,USD,53.4000,,,,0.0000,Low,K
+2026-01-23 19:30:00+00:00,US,CFTC Corn speculative net positions,USD,-33.4000,,,,0.0000,Low,K
+2026-01-23 19:30:00+00:00,US,CFTC Crude Oil speculative net positions,USD,58.1000,,,,0.0000,Medium,K
+2026-01-23 19:30:00+00:00,US,CFTC Gold Speculative net positions,USD,251.2000,,,,0.0000,Medium,K
+2026-01-23 19:30:00+00:00,US,CFTC Nasdaq 100 speculative net positions,USD,29.1000,,,,0.0000,Medium,K
+2026-01-23 19:30:00+00:00,US,CFTC Natural Gas speculative net positions,USD,-185.6000,,,,0.0000,Low,K
+2026-01-23 19:30:00+00:00,US,CFTC Silver Speculative net positions,USD,32.1000,,,,0.0000,Low,K
+2026-01-23 19:30:00+00:00,US,CFTC Soybeans speculative net positions,USD,58.9000,,,,0.0000,Low,K
+2026-01-23 19:30:00+00:00,US,CFTC S&P 500 speculative net positions,USD,-122.1000,,,,0.0000,Medium,K
+2026-01-23 19:30:00+00:00,US,CFTC Wheat speculative net positions,USD,-86.0000,,,,0.0000,Low,K
+2026-01-26 12:30:00+00:00,US,Chicago Fed National Activity Index (Dec),USD,,,,,0.0000,Medium,
+2026-01-26 12:30:00+00:00,US,Durable Goods Orders Ex Defense MoM,USD,-1.5000,,,,0.0000,Low,%
+2026-01-26 12:30:00+00:00,US,Durable Goods Orders ex Defense MoM (Nov),USD,-1.5000,0.7000,,,0.0000,Low,%
+2026-01-26 12:30:00+00:00,US,Durable Goods Orders Ex Transp MoM (Nov),USD,0.2000,0.5000,,,0.0000,Medium,%
+2026-01-26 12:30:00+00:00,US,Durable Goods Orders MoM (Nov),USD,-2.2000,1.1000,,,0.0000,High,%
+2026-01-26 12:30:00+00:00,US,Non Defense Goods Orders Ex Air (Nov),USD,0.5000,0.5000,,,0.0000,Low,%
+2026-01-26 13:30:00+00:00,US,Durable Goods Orders MoM (Nov),USD,-2.2,1.1,,,0,High,%
+2026-01-26 14:30:00+00:00,US,Dallas Fed Manufacturing Index (Jan),USD,-10.9000,-6.0000,,,0.0000,Medium,
+2026-01-26 15:30:00+00:00,US,3-Month Bill Auction,USD,3.5900,,,,0.0000,Low,%
+2026-01-26 15:30:00+00:00,US,6-Month Bill Auction,USD,3.5200,,,,0.0000,Low,%
+2026-01-26 17:00:00+00:00,US,2-Year Note Auction,USD,3.4990,,,,0.0000,Low,%
+2026-01-27 12:55:00+00:00,US,Redbook YoY (Jan/24),USD,5.5000,,,,0.0000,Low,
+2026-01-27 13:00:00+00:00,US,House Price Index MoM (Nov),USD,0.4000,0.3000,,,0.0000,Low,%
+2026-01-27 13:00:00+00:00,US,House Price Index (Nov),USD,436.7000,438.0000,,,0.0000,Low,
+2026-01-27 13:00:00+00:00,US,House Price Index YoY (Nov),USD,1.7000,1.0000,,,0.0000,Low,%
+2026-01-27 13:00:00+00:00,US,S&P/Case-Shiller Home Price MoM (Nov),USD,-0.3000,-0.2000,,,0.0000,Low,%
+2026-01-27 13:00:00+00:00,US,S&P/Case-Shiller Home Price YoY (Nov),USD,1.3000,1.2000,,,0.0000,Medium,%
+2026-01-27 14:00:00+00:00,US,CB Consumer Confidence (Jan),USD,89.1000,,,,0.0000,High,
+2026-01-27 14:00:00+00:00,US,New Home Sales (Dec),USD,,,,,0.0000,Medium,
+2026-01-27 14:00:00+00:00,US,Richmond Fed Manufacturing Index (Jan),USD,-7.0000,-3.0000,,,0.0000,Low,
+2026-01-27 14:00:00+00:00,US,Richmond Fed Manufacturing Shipments Index (Jan),USD,-11.0000,-6.0000,,,0.0000,Low,
+2026-01-27 14:00:00+00:00,US,Richmond Fed Services Revenues Index (Jan),USD,-6.0000,-2.0000,,,0.0000,Low,
+2026-01-27 14:30:00+00:00,US,Dallas Fed Services Index (Jan),USD,-3.3000,2.0000,,,0.0000,Low,
+2026-01-27 14:30:00+00:00,US,Dallas Fed Services Revenues Index (Jan),USD,0.1000,1.0000,,,0.0000,Low,
+2026-01-27 15:00:00+00:00,US,CB Consumer Confidence (Jan),USD,89.1,,,,0,High,
+2026-01-27 17:00:00+00:00,US,5-Year Note Auction,USD,3.7470,,,,0.0000,Low,%
+2026-01-27 17:00:00+00:00,US,M2 Money Supply MoM (Dec),USD,22.3000,,,,0.0000,Low,T
+2026-01-27 17:00:00+00:00,US,Money Supply (Dec),USD,22.3000,,,,0.0000,Low,
+2026-01-27 20:30:00+00:00,US,API Crude Oil Stock Change (Jan/23),USD,3.0400,,,,0.0000,Medium,
+2026-01-28 11:00:00+00:00,US,MBA 30-Year Mortgage Rate (Jan/23),USD,6.1600,,,,0.0000,Medium,
+2026-01-28 11:00:00+00:00,US,MBA Mortgage Applications (Jan/23),USD,14.1000,,,,0.0000,Low,
+2026-01-28 11:00:00+00:00,US,MBA Mortgage Market Index (Jan/23),USD,397.2000,,,,0.0000,Low,
+2026-01-28 11:00:00+00:00,US,MBA Mortgage Refinance Index (Jan/23),USD,1580.8000,,,,0.0000,Low,
+2026-01-28 11:00:00+00:00,US,MBA Purchase Index (Jan/23),USD,194.1000,,,,0.0000,Low,
+2026-01-28 12:30:00+00:00,US,Durable Goods Orders ex Defense MoM (Dec),USD,,,,,0.0000,Low,
+2026-01-28 12:30:00+00:00,US,Durable Goods Orders Ex Transp MoM (Dec),USD,,,,,0.0000,Medium,
+2026-01-28 12:30:00+00:00,US,Durable Goods Orders MoM (Dec),USD,,,,,0.0000,High,
+2026-01-28 12:30:00+00:00,US,Goods Trade Balance Adv (Dec),USD,,,,,0.0000,Medium,
+2026-01-28 12:30:00+00:00,US,Non Defense Goods Orders Ex Air (Dec),USD,,,,,0.0000,Low,
+2026-01-28 12:30:00+00:00,US,Retail Inventories Ex Autos MoM (Dec),USD,,,,,0.0000,Medium,
+2026-01-28 12:30:00+00:00,US,Wholesale Inventories MoM (Dec),USD,,,,,0.0000,Medium,
+2026-01-28 13:30:00+00:00,US,Durable Goods Orders MoM (Dec),USD,,,,,0,High,
+2026-01-28 14:30:00+00:00,US,EIA Crude Oil Imports Change (Jan/23),USD,-0.0270,,,,0.0000,Low,
+2026-01-28 14:30:00+00:00,US,EIA Crude Oil Stocks Change (Jan/23),USD,3.6020,,,,0.0000,Medium,
+2026-01-28 14:30:00+00:00,US,EIA Cushing Crude Oil Stocks Change (Jan/23),USD,1.4780,,,,0.0000,Low,
+2026-01-28 14:30:00+00:00,US,EIA Distillate Fuel Production Change (Jan/23),USD,-0.2090,,,,0.0000,Low,
+2026-01-28 14:30:00+00:00,US,EIA Distillate Stocks Change (Jan/23),USD,3.3480,,,,0.0000,Low,
+2026-01-28 14:30:00+00:00,US,EIA Gasoline Production Change (Jan/23),USD,-0.2460,,,,0.0000,Low,
+2026-01-28 14:30:00+00:00,US,EIA Gasoline Stocks Change (Jan/23),USD,5.9770,,,,0.0000,Medium,
+2026-01-28 14:30:00+00:00,US,EIA Heating Oil Stocks Change (Jan/23),USD,0.2790,,,,0.0000,Low,
+2026-01-28 14:30:00+00:00,US,EIA Refinery Crude Runs Change (Jan/23),USD,-0.3540,,,,0.0000,Low,
+2026-01-28 15:30:00+00:00,US,17-Week Bill Auction,USD,3.5800,,,,0.0000,Low,
+2026-01-28 18:00:00+00:00,US,Fed Interest Rate Decision,USD,3.7500,3.7500,,,0.0000,High,%
+2026-01-28 18:00:00+00:00,US,FOMC Economic Projections,USD,,,,,0.0000,High,
+2026-01-28 18:30:00+00:00,US,Fed Press Conference,USD,,,,,0.0000,High,
+2026-01-28 18:30:00+00:00,US,Press Conference,USD,,,,,0.0000,High,
+2026-01-28 19:00:00+00:00,US,Fed Interest Rate Decision,USD,3.75,3.75,,,0,High,%
+2026-01-28 19:00:00+00:00,US,FOMC Economic Projections,USD,,,,,0,High,
+2026-01-28 19:30:00+00:00,US,Fed Press Conference,USD,,,,,0,High,
+2026-01-28 19:30:00+00:00,US,Press Conference,USD,,,,,0,High,
+2026-01-29 12:30:00+00:00,US,Balance of Trade (Nov),USD,-29.4000,-37.0000,,,0.0000,Medium,B
+2026-01-29 12:30:00+00:00,US,Continuing Jobless Claims (Jan/17),USD,1849.0000,1860.0000,,,0.0000,Low,K
+2026-01-29 12:30:00+00:00,US,Core PCE Price Index MoM (Dec),USD,,,,,0.0000,High,
+2026-01-29 12:30:00+00:00,US,Core PCE Price Index YoY (Dec),USD,,,,,0.0000,Low,
+2026-01-29 12:30:00+00:00,US,Core PCE Prices QoQ (Q4),USD,,,,,0.0000,Low,
+2026-01-29 12:30:00+00:00,US,Exports (Nov),USD,302.0000,303.0000,,,0.0000,Medium,B
+2026-01-29 12:30:00+00:00,US,GDP Growth Rate QoQ (Q4),USD,,,,,0.0000,High,
+2026-01-29 12:30:00+00:00,US,GDP Price Index QoQ (Q4),USD,,,,,0.0000,Medium,
+2026-01-29 12:30:00+00:00,US,GDP Sales QoQ (Q4),USD,,,,,0.0000,Low,
+2026-01-29 12:30:00+00:00,US,Imports,USD,331.4000,,,,0.0000,Medium,B
+2026-01-29 12:30:00+00:00,US,Imports (Nov),USD,331.4000,340.0000,,,0.0000,Medium,B
+2026-01-29 12:30:00+00:00,US,Initial Jobless Claims (Jan/24),USD,200.0000,205.0000,,,0.0000,Medium,K
+2026-01-29 12:30:00+00:00,US,Jobless Claims 4-Week Average (Jan/24),USD,201.5000,204.0000,,,0.0000,Low,K
+2026-01-29 12:30:00+00:00,US,Nonfarm Productivity QoQ (Q3),USD,4.1000,4.9000,,,0.0000,Low,%
+2026-01-29 12:30:00+00:00,US,PCE Price Index MoM (Dec),USD,,,,,0.0000,Medium,
+2026-01-29 12:30:00+00:00,US,PCE Price Index YoY (Dec),USD,,,,,0.0000,Medium,
+2026-01-29 12:30:00+00:00,US,PCE Prices QoQ (Q4),USD,,,,,0.0000,Low,
+2026-01-29 12:30:00+00:00,US,Personal Income MoM (Dec),USD,,,,,0.0000,High,
+2026-01-29 12:30:00+00:00,US,Personal Spending MoM (Dec),USD,,,,,0.0000,High,
+2026-01-29 12:30:00+00:00,US,Real Consumer Spending QoQ (Q4),USD,,,,,0.0000,Low,
+2026-01-29 12:30:00+00:00,US,Unit Labour Costs QoQ (Q3),USD,-2.9000,-1.9000,,,0.0000,Low,%
+2026-01-29 13:30:00+00:00,US,Core PCE Price Index MoM (Dec),USD,,,,,0,High,
+2026-01-29 13:30:00+00:00,US,Core PCE Price Index YoY (Dec),USD,,,,,0,High,
+2026-01-29 13:30:00+00:00,US,GDP Growth Rate QoQ (Q4),USD,,,,,0,High,
+2026-01-29 13:30:00+00:00,US,GDP Price Index QoQ (Q4),USD,,,,,0,High,
+2026-01-29 13:30:00+00:00,US,GDP Sales QoQ (Q4),USD,,,,,0,High,
+2026-01-29 13:30:00+00:00,US,Initial Jobless Claims (Jan/24),USD,200,205,,,0,High,K
+2026-01-29 13:30:00+00:00,US,PCE Price Index MoM (Dec),USD,,,,,0,High,
+2026-01-29 13:30:00+00:00,US,PCE Price Index YoY (Dec),USD,,,,,0,High,
+2026-01-29 13:30:00+00:00,US,Personal Income MoM (Dec),USD,,,,,0,High,
+2026-01-29 13:30:00+00:00,US,Personal Spending MoM (Dec),USD,,,,,0,High,
+2026-01-29 14:00:00+00:00,US,Durable Goods Orders Ex Defense MoM,USD,-1.5000,,,,0.0000,Low,%
+2026-01-29 14:00:00+00:00,US,Durable Goods Orders Ex Transp MoM,USD,0.1000,,,,0.0000,Low,%
+2026-01-29 14:00:00+00:00,US,Factory Orders ex Transportation (Nov),USD,-0.2000,0.3000,,,0.0000,Low,%
+2026-01-29 14:00:00+00:00,US,Factory Orders MoM (Nov),USD,-1.3000,0.4000,,,0.0000,Medium,%
+2026-01-29 14:00:00+00:00,US,Wholesale Inventories MoM (Nov),USD,0.2000,0.1000,,,0.0000,Low,%
+2026-01-29 14:00:00+00:00,US,Wholesale Sales MoM (Nov),USD,-0.4000,,,,0.0000,Low,%
+2026-01-29 14:30:00+00:00,US,EIA Natural Gas Stocks Change (Jan/23),USD,,,,,0.0000,Low,
+2026-01-29 15:30:00+00:00,US,4-Week Bill Auction,USD,3.6300,,,,0.0000,Low,
+2026-01-29 15:30:00+00:00,US,8-Week Bill Auction,USD,3.6300,,,,0.0000,Low,
+2026-01-29 16:00:00+00:00,US,15-Year Mortgage Rate (Jan/29),USD,5.4400,,,,0.0000,Low,
+2026-01-29 16:00:00+00:00,US,30-Year Mortgage Rate (Jan/29),USD,6.0900,,,,0.0000,Low,
+2026-01-29 16:00:00+00:00,US,Atlanta Fed GDPNow (Q4),USD,,,,,0.0000,Medium,
+2026-01-29 17:00:00+00:00,US,7-Year Note Auction,USD,3.9300,,,,0.0000,Low,%
+2026-01-29 17:00:00+00:00,US,Atlanta Fed GDPNow (Q4),USD,,,,,0,High,
+2026-01-29 20:30:00+00:00,US,Fed Balance Sheet (Jan/28),USD,,,,,0.0000,Low,
+2026-01-30 12:30:00+00:00,US,Core PPI MoM (Dec),USD,0.0000,0.1000,,,0.0000,Medium,%
+2026-01-30 12:30:00+00:00,US,Core PPI YoY (Dec),USD,3.0000,3.0000,,,0.0000,Low,%
+2026-01-30 12:30:00+00:00,US,Employment Cost - Benefits QoQ (Q4),USD,,,,,0.0000,Medium,
+2026-01-30 12:30:00+00:00,US,Employment Cost Index QoQ (Q4),USD,,,,,0.0000,Medium,
+2026-01-30 12:30:00+00:00,US,Employment Cost - Wages QoQ (Q4),USD,,,,,0.0000,Medium,
+2026-01-30 12:30:00+00:00,US,"PPI Ex Food, Energy and Trade MoM (Dec)",USD,0.2000,0.3000,,,0.0000,Low,%
+2026-01-30 12:30:00+00:00,US,"PPI Ex Food, Energy and Trade YoY (Dec)",USD,3.5000,3.5000,,,0.0000,Low,%
+2026-01-30 12:30:00+00:00,US,Producer Price Index (Dec),USD,150.7050,151.0000,,,0.0000,Low,
+2026-01-30 12:30:00+00:00,US,Producer Price Index MoM (Dec),USD,0.2000,0.2000,,,0.0000,High,%
+2026-01-30 12:30:00+00:00,US,Producer Price Index YoY (Dec),USD,3.0000,2.9000,,,0.0000,Low,%
+2026-01-30 13:30:00+00:00,US,Core PPI MoM (Dec),USD,0,0.1,,,0,High,%
+2026-01-30 13:30:00+00:00,US,Core PPI YoY (Dec),USD,3,3,,,0,High,%
+2026-01-30 13:30:00+00:00,US,"PPI Ex Food, Energy and Trade MoM (Dec)",USD,0.2,0.3,,,0,High,%
+2026-01-30 13:30:00+00:00,US,"PPI Ex Food, Energy and Trade YoY (Dec)",USD,3.5,3.5,,,0,High,%
+2026-01-30 13:30:00+00:00,US,Producer Price Index (Dec),USD,150.705,151,,,0,High,
+2026-01-30 13:30:00+00:00,US,Producer Price Index MoM (Dec),USD,0.2,0.2,,,0,High,%
+2026-01-30 13:30:00+00:00,US,Producer Price Index YoY (Dec),USD,3,2.9,,,0,High,%
+2026-01-30 13:45:00+00:00,US,Chicago PMI (Jan),USD,43.5000,45.0000,,,0.0000,Medium,
+2026-01-30 17:00:00+00:00,US,Baker Hughes Oil Rig Count (Jan/30),USD,,,,,0.0000,Low,
+2026-02-01 09:00:00+00:00,US,OPEC Meeting,USD,,,,,0.0000,Medium,
+2026-02-02 13:45:00+00:00,US,S&P Global Manufacturing PMI (Jan),USD,51.8000,,,,0.0000,Low,
+2026-02-02 14:00:00+00:00,US,Construction Spending MoM (Dec),USD,,,,,0.0000,Low,
+2026-02-02 14:00:00+00:00,US,ISM Manufacturing Employment (Jan),USD,44.9000,,,,0.0000,Medium,
+2026-02-02 14:00:00+00:00,US,ISM Manufacturing New Orders (Jan),USD,47.7000,,,,0.0000,Low,
+2026-02-02 14:00:00+00:00,US,ISM Manufacturing PMI (Jan),USD,47.9000,,,,0.0000,High,
+2026-02-02 14:00:00+00:00,US,ISM Manufacturing Prices (Jan),USD,58.5000,,,,0.0000,Low,
+2026-02-02 15:00:00+00:00,US,ISM Manufacturing PMI (Jan),USD,47.9,,,,0,High,
+2026-02-02 15:30:00+00:00,US,3-Month Bill Auction,USD,,,,,0.0000,Low,
+2026-02-02 15:30:00+00:00,US,6-Month Bill Auction,USD,,,,,0.0000,Low,
+2026-02-03 10:00:00+00:00,US,LMI Logistics Managers Index (Jan),USD,54.2000,,,,0.0000,Low,
+2026-02-03 12:55:00+00:00,US,Redbook YoY (Jan/31),USD,,,,,0.0000,Low,
+2026-02-03 14:00:00+00:00,US,JOLTs Job Openings (Dec),USD,7.1460,,,,0.0000,High,M
+2026-02-03 14:00:00+00:00,US,JOLTs Job Quits (Dec),USD,3.1610,,,,0.0000,Low,
+2026-02-03 14:10:00+00:00,US,RCM/TIPP Economic Optimism Index (Feb),USD,47.2000,,,,0.0000,Low,
+2026-02-03 15:00:00+00:00,US,JOLTs Job Openings (Dec),USD,7.146,,,,0,High,M
+2026-02-03 20:30:00+00:00,US,API Crude Oil Stock Change (Jan/30),USD,,,,,0.0000,Medium,
+2026-02-04 11:00:00+00:00,US,MBA 30-Year Mortgage Rate (Jan/30),USD,,,,,0.0000,Medium,
+2026-02-04 11:00:00+00:00,US,MBA Mortgage Applications (Jan/30),USD,,,,,0.0000,Low,
+2026-02-04 11:00:00+00:00,US,MBA Mortgage Market Index (Jan/30),USD,,,,,0.0000,Low,
+2026-02-04 11:00:00+00:00,US,MBA Mortgage Refinance Index (Jan/30),USD,,,,,0.0000,Low,
+2026-02-04 11:00:00+00:00,US,MBA Purchase Index (Jan/30),USD,,,,,0.0000,Low,
+2026-02-04 12:15:00+00:00,US,ADP Employment Change (Jan),USD,41.0000,,,,0.0000,Medium,K
+2026-02-04 12:30:00+00:00,US,Treasury Refunding Announcement,USD,,,,,0.0000,Low,
+2026-02-04 13:45:00+00:00,US,S&P Global Composite PMI (Jan),USD,52.7000,,,,0.0000,Low,
+2026-02-04 13:45:00+00:00,US,S&P Global Services PMI (Jan),USD,52.5000,,,,0.0000,Low,
+2026-02-04 14:00:00+00:00,US,Factory Orders ex Transportation (Dec),USD,,,,,0.0000,Low,
+2026-02-04 14:00:00+00:00,US,Factory Orders MoM (Dec),USD,,,,,0.0000,Medium,
+2026-02-04 14:00:00+00:00,US,ISM Non-Manufacturing Business Activity (Jan),USD,56.0000,,,,0.0000,Low,
+2026-02-04 14:00:00+00:00,US,ISM Non-Manufacturing Employment (Jan),USD,52.0000,,,,0.0000,Medium,
+2026-02-04 14:00:00+00:00,US,ISM Non-Manufacturing New Orders (Jan),USD,57.9000,,,,0.0000,Low,
+2026-02-04 14:00:00+00:00,US,ISM Non-Manufacturing PMI (Jan),USD,54.4000,,,,0.0000,High,
+2026-02-04 14:00:00+00:00,US,ISM Non-Manufacturing Prices (Jan),USD,64.3000,,,,0.0000,High,
+2026-02-04 14:00:00+00:00,US,ISM Services Business Activity (Jan),USD,56.0000,,,,0.0000,Low,
+2026-02-04 14:00:00+00:00,US,ISM Services Employment (Jan),USD,52.0000,,,,0.0000,Low,
+2026-02-04 14:00:00+00:00,US,ISM Services New Orders (Jan),USD,57.9000,,,,0.0000,Low,
+2026-02-04 14:00:00+00:00,US,ISM Services PMI (Jan),USD,54.4000,,,,0.0000,High,
+2026-02-04 14:00:00+00:00,US,ISM Services Prices (Jan),USD,64.3000,,,,0.0000,Low,
+2026-02-04 14:30:00+00:00,US,EIA Crude Oil Imports Change (Jan/30),USD,,,,,0.0000,Low,
+2026-02-04 14:30:00+00:00,US,EIA Crude Oil Stocks Change (Jan/30),USD,,,,,0.0000,Medium,
+2026-02-04 14:30:00+00:00,US,EIA Cushing Crude Oil Stocks Change (Jan/30),USD,,,,,0.0000,Low,
+2026-02-04 14:30:00+00:00,US,EIA Distillate Fuel Production Change (Jan/30),USD,,,,,0.0000,Low,
+2026-02-04 14:30:00+00:00,US,EIA Distillate Stocks Change (Jan/30),USD,,,,,0.0000,Low,
+2026-02-04 14:30:00+00:00,US,EIA Gasoline Production Change (Jan/30),USD,,,,,0.0000,Low,
+2026-02-04 14:30:00+00:00,US,EIA Gasoline Stocks Change (Jan/30),USD,,,,,0.0000,Medium,
+2026-02-04 14:30:00+00:00,US,EIA Heating Oil Stocks Change (Jan/30),USD,,,,,0.0000,Low,
+2026-02-04 14:30:00+00:00,US,EIA Refinery Crude Runs Change (Jan/30),USD,,,,,0.0000,Low,
+2026-02-04 15:00:00+00:00,US,ISM Non-Manufacturing PMI (Jan),USD,54.4,,,,0,High,
+2026-02-04 15:00:00+00:00,US,ISM Non-Manufacturing Prices (Jan),USD,64.3,,,,0,High,
+2026-02-04 15:00:00+00:00,US,ISM Services PMI (Jan),USD,54.4,,,,0,High,
+2026-02-04 15:30:00+00:00,US,17-Week Bill Auction,USD,,,,,0.0000,Low,
+2026-02-05 11:30:00+00:00,US,Challenger Job Cuts (Jan),USD,35.5530,,,,0.0000,Low,K
+2026-02-05 12:30:00+00:00,US,Balance of Trade (Dec),USD,,-55.0000,,,0.0000,Medium,B
+2026-02-05 12:30:00+00:00,US,Continuing Jobless Claims (Jan/24),USD,,,,,0.0000,Low,
+2026-02-05 12:30:00+00:00,US,Exports (Dec),USD,,,,,0.0000,Medium,
+2026-02-05 12:30:00+00:00,US,Imports (Dec),USD,,,,,0.0000,Medium,
+2026-02-05 12:30:00+00:00,US,Initial Jobless Claims (Jan/31),USD,,,,,0.0000,Medium,
+2026-02-05 12:30:00+00:00,US,Jobless Claims 4-Week Average (Jan/31),USD,,,,,0.0000,Low,
+2026-02-05 12:30:00+00:00,US,Nonfarm Productivity QoQ (Q4),USD,3.3000,,,,0.0000,Medium,%
+2026-02-05 12:30:00+00:00,US,Unit Labour Costs QoQ (Q4),USD,1.0000,,,,0.0000,Medium,%
+2026-02-05 13:30:00+00:00,US,Initial Jobless Claims (Jan/31),USD,,,,,0,High,
+2026-02-05 14:30:00+00:00,US,EIA Natural Gas Stocks Change (Jan/30),USD,,,,,0.0000,Low,
+2026-02-05 15:30:00+00:00,US,4-Week Bill Auction,USD,,,,,0.0000,Low,
+2026-02-05 15:30:00+00:00,US,8-Week Bill Auction,USD,,,,,0.0000,Low,
+2026-02-05 16:00:00+00:00,US,15-Year Mortgage Rate (Feb/05),USD,,,,,0.0000,Low,
+2026-02-05 16:00:00+00:00,US,30-Year Mortgage Rate (Feb/05),USD,,,,,0.0000,Low,
+2026-02-05 20:30:00+00:00,US,Fed Balance Sheet (Feb/04),USD,,,,,0.0000,Low,
+2026-02-06 12:30:00+00:00,US,Average Hourly Earnings MoM (Jan),USD,0.3000,,,,0.0000,Medium,%
+2026-02-06 12:30:00+00:00,US,Average Hourly Earnings YoY (Jan),USD,3.8000,,,,0.0000,Medium,%
+2026-02-06 12:30:00+00:00,US,Average Weekly Hours (Jan),USD,34.2000,,,,0.0000,Low,
+2026-02-06 12:30:00+00:00,US,Government Payrolls (Jan),USD,13.0000,,,,0.0000,Low,K
+2026-02-06 12:30:00+00:00,US,Manufacturing Payrolls (Jan),USD,-8.0000,,,,0.0000,Low,K
+2026-02-06 12:30:00+00:00,US,Non Farm Payrolls (Jan),USD,50.0000,,,,0.0000,High,K
+2026-02-06 12:30:00+00:00,US,Nonfarm Payrolls Private (Jan),USD,37.0000,,,,0.0000,Low,K
+2026-02-06 12:30:00+00:00,US,Participation Rate (Jan),USD,62.4000,,,,0.0000,Medium,%
+2026-02-06 12:30:00+00:00,US,U-6 Unemployment Rate (Jan),USD,8.4000,,,,0.0000,Low,%
+2026-02-06 12:30:00+00:00,US,Unemployment Rate (Jan),USD,4.4000,4.5000,,,0.0000,High,%
+2026-02-06 13:00:00+00:00,US,Used Car Prices MoM (Jan),USD,0.1000,,,,0.0000,Low,
+2026-02-06 13:00:00+00:00,US,Used Car Prices YoY (Jan),USD,0.4000,,,,0.0000,Low,
+2026-02-06 13:30:00+00:00,US,Non Farm Payrolls (Jan),USD,50,,,,0,High,K
+2026-02-06 13:30:00+00:00,US,Nonfarm Payrolls Private (Jan),USD,37,,,,0,High,K
+2026-02-06 13:30:00+00:00,US,U-6 Unemployment Rate (Jan),USD,8.4,,,,0,High,%
+2026-02-06 13:30:00+00:00,US,Unemployment Rate (Jan),USD,4.4,4.5,,,0,High,%
+2026-02-06 14:00:00+00:00,US,Inflation Expectations (Feb),USD,3.2000,,,,0.0000,Medium,%
+2026-02-06 14:00:00+00:00,US,Michigan 5 Year Inflation Expectations (Feb),USD,,,,,0.0000,Low,
+2026-02-06 14:00:00+00:00,US,Michigan Consumer Expectations (Feb),USD,54.6000,,,,0.0000,Low,
+2026-02-06 14:00:00+00:00,US,Michigan Consumer Sentiment (Feb),USD,52.9000,,,,0.0000,High,
+2026-02-06 14:00:00+00:00,US,Michigan Current Conditions (Feb),USD,50.4000,,,,0.0000,Low,
+2026-02-06 14:00:00+00:00,US,Michigan Inflation Expectations (Feb),USD,,,,,0.0000,Low,
+2026-02-06 15:00:00+00:00,US,Michigan Consumer Sentiment (Feb),USD,56.4,,,,0,High,
+2026-02-06 17:00:00+00:00,US,Baker Hughes Oil Rig Count (Feb/06),USD,,,,,0.0000,Low,
+2026-02-06 19:00:00+00:00,US,BoE Consumer Credit,USD,4.2300,,,,0.0000,Medium,B
+2026-02-06 19:00:00+00:00,US,Consumer Credit Change (Dec),USD,4.2300,10.0000,,,0.0000,Low,B
+2026-02-09 14:00:00+00:00,US,CB Employment Trends Index (Jan),USD,104.2700,,,,0.0000,Low,
+2026-02-09 14:00:00+00:00,US,Wholesale Inventories MoM (Dec),USD,,,,,0.0000,Low,
+2026-02-09 15:00:00+00:00,US,Consumer Inflation Expectation (Jan),USD,3.4000,,,,0.0000,Low,
+2026-02-09 15:30:00+00:00,US,3-Month Bill Auction,USD,,,,,0.0000,Low,
+2026-02-09 15:30:00+00:00,US,6-Month Bill Auction,USD,,,,,0.0000,Low,
+2026-02-10 10:00:00+00:00,US,NFIB Business Optimism Index (Jan),USD,99.5000,,,,0.0000,Low,
+2026-02-10 12:30:00+00:00,US,Employment Benefits QoQ (Q4),USD,0.8000,,,,0.0000,Low,%
+2026-02-10 12:30:00+00:00,US,Employment Cost - Benefits QoQ (Q4),USD,0.8000,,,,0.0000,Medium,
+2026-02-10 12:30:00+00:00,US,Employment Cost Index QoQ (Q4),USD,0.8000,,,,0.0000,Medium,%
+2026-02-10 12:30:00+00:00,US,Employment Cost - Wages QoQ (Q4),USD,0.8000,0.8000,,,0.0000,Medium,%
+2026-02-10 12:30:00+00:00,US,Employment Wages QoQ (Q4),USD,0.8000,,,,0.0000,Low,%
+2026-02-10 12:30:00+00:00,US,Export Prices MoM (Dec),USD,,,,,0.0000,Medium,
+2026-02-10 12:30:00+00:00,US,Export Prices YoY (Dec),USD,3.3000,,,,0.0000,Low,
+2026-02-10 12:30:00+00:00,US,Import Prices MoM (Dec),USD,0.4000,,,,0.0000,Medium,%
+2026-02-10 12:30:00+00:00,US,Import Prices YoY (Dec),USD,0.1000,,,,0.0000,Low,
+2026-02-10 12:55:00+00:00,US,Redbook YoY (Feb/07),USD,,,,,0.0000,Low,
+2026-02-10 15:00:00+00:00,US,Total Household Debt (Q4),USD,,,,,0.0000,Low,
+2026-02-10 17:00:00+00:00,US,3-Year Note Auction,USD,,,,,0.0000,Low,
+2026-02-10 20:30:00+00:00,US,API Crude Oil Stock Change (Feb/06),USD,,,,,0.0000,Medium,
+2026-02-11 11:00:00+00:00,US,MBA 30-Year Mortgage Rate (Feb/06),USD,,,,,0.0000,Medium,
+2026-02-11 11:00:00+00:00,US,MBA Mortgage Applications (Feb/06),USD,,,,,0.0000,Low,
+2026-02-11 11:00:00+00:00,US,MBA Mortgage Market Index (Feb/06),USD,,,,,0.0000,Low,
+2026-02-11 11:00:00+00:00,US,MBA Mortgage Refinance Index (Feb/06),USD,,,,,0.0000,Low,
+2026-02-11 11:00:00+00:00,US,MBA Purchase Index (Feb/06),USD,,,,,0.0000,Low,
+2026-02-11 12:30:00+00:00,US,Core Inflation Rate MoM (Jan),USD,0.2000,,,,0.0000,High,
+2026-02-11 12:30:00+00:00,US,Core Inflation Rate YoY (Jan),USD,2.6000,,,,0.0000,High,
+2026-02-11 12:30:00+00:00,US,CPI (Jan),USD,324.0500,,,,0.0000,Medium,
+2026-02-11 12:30:00+00:00,US,CPI s.a (Jan),USD,326.0300,,,,0.0000,Medium,
+2026-02-11 12:30:00+00:00,US,Inflation Rate MoM (Jan),USD,0.3000,,,,0.0000,High,
+2026-02-11 12:30:00+00:00,US,Inflation Rate YoY (Jan),USD,2.7000,,,,0.0000,High,
+2026-02-11 12:30:00+00:00,US,Real Earnings MoM (Jan),USD,-0.3000,,,,0.0000,Low,%
+2026-02-11 13:30:00+00:00,US,Core Inflation Rate MoM (Jan),USD,0.2,,,,0,High,
+2026-02-11 13:30:00+00:00,US,Core Inflation Rate YoY (Jan),USD,2.6,,,,0,High,
+2026-02-11 13:30:00+00:00,US,CPI (Jan),USD,324.05,,,,0,High,%
+2026-02-11 13:30:00+00:00,US,CPI s.a (Jan),USD,326.03,,,,0,High,
+2026-02-11 13:30:00+00:00,US,Inflation Rate MoM (Jan),USD,0.3,,,,0,High,
+2026-02-11 13:30:00+00:00,US,Inflation Rate YoY (Jan),USD,2.7,,,,0,High,
+2026-02-11 14:30:00+00:00,US,EIA Crude Oil Imports Change (Feb/06),USD,,,,,0.0000,Low,
+2026-02-11 14:30:00+00:00,US,EIA Crude Oil Stocks Change (Feb/06),USD,,,,,0.0000,Medium,
+2026-02-11 14:30:00+00:00,US,EIA Cushing Crude Oil Stocks Change (Feb/06),USD,,,,,0.0000,Low,
+2026-02-11 14:30:00+00:00,US,EIA Distillate Fuel Production Change (Feb/06),USD,,,,,0.0000,Low,
+2026-02-11 14:30:00+00:00,US,EIA Distillate Stocks Change (Feb/06),USD,,,,,0.0000,Low,
+2026-02-11 14:30:00+00:00,US,EIA Gasoline Production Change (Feb/06),USD,,,,,0.0000,Low,
+2026-02-11 14:30:00+00:00,US,EIA Gasoline Stocks Change (Feb/06),USD,,,,,0.0000,Medium,
+2026-02-11 14:30:00+00:00,US,EIA Heating Oil Stocks Change (Feb/06),USD,,,,,0.0000,Low,
+2026-02-11 14:30:00+00:00,US,EIA Refinery Crude Runs Change (Feb/06),USD,,,,,0.0000,Low,
+2026-02-11 15:00:00+00:00,US,Thomson Reuters IPSOS PCSI (Feb),USD,53.8100,,,,0.0000,Low,
+2026-02-11 15:30:00+00:00,US,17-Week Bill Auction,USD,,,,,0.0000,Low,
+2026-02-11 17:00:00+00:00,US,10-Year Note Auction,USD,4.1730,,,,0.0000,Low,
+2026-02-11 18:00:00+00:00,US,Budget Balance (Jan),USD,-145.0000,,,,0.0000,Medium,B
+2026-02-11 18:00:00+00:00,US,Monthly Budget Statement (Jan),USD,-145.0000,-190.0000,,,0.0000,Medium,B
+2026-02-12 12:30:00+00:00,US,Continuing Jobless Claims (Jan/31),USD,,,,,0.0000,Low,
+2026-02-12 12:30:00+00:00,US,Core PPI MoM (Jan),USD,,,,,0.0000,Medium,
+2026-02-12 12:30:00+00:00,US,Core PPI YoY (Jan),USD,,,,,0.0000,Low,
+2026-02-12 12:30:00+00:00,US,Initial Jobless Claims (Feb/07),USD,,,,,0.0000,Medium,
+2026-02-12 12:30:00+00:00,US,Jobless Claims 4-Week Average (Feb/07),USD,,,,,0.0000,Low,
+2026-02-12 12:30:00+00:00,US,"PPI Ex Food, Energy and Trade MoM (Jan)",USD,,,,,0.0000,Low,
+2026-02-12 12:30:00+00:00,US,"PPI Ex Food, Energy and Trade YoY (Jan)",USD,,,,,0.0000,Low,
+2026-02-12 12:30:00+00:00,US,Producer Price Index (Jan),USD,,,,,0.0000,Low,
+2026-02-12 12:30:00+00:00,US,Producer Price Index MoM (Jan),USD,,,,,0.0000,High,
+2026-02-12 12:30:00+00:00,US,Producer Price Index YoY (Jan),USD,,,,,0.0000,Low,
+2026-02-12 13:30:00+00:00,US,Core PPI MoM (Jan),USD,,,,,0,High,
+2026-02-12 13:30:00+00:00,US,Core PPI YoY (Jan),USD,,,,,0,High,
+2026-02-12 13:30:00+00:00,US,Initial Jobless Claims (Feb/07),USD,,,,,0,High,
+2026-02-12 13:30:00+00:00,US,"PPI Ex Food, Energy and Trade MoM (Jan)",USD,,,,,0,High,
+2026-02-12 13:30:00+00:00,US,"PPI Ex Food, Energy and Trade YoY (Jan)",USD,,,,,0,High,
+2026-02-12 13:30:00+00:00,US,Producer Price Index (Jan),USD,,,,,0,High,
+2026-02-12 13:30:00+00:00,US,Producer Price Index MoM (Jan),USD,,,,,0,High,
+2026-02-12 13:30:00+00:00,US,Producer Price Index YoY (Jan),USD,,,,,0,High,
+2026-02-12 14:00:00+00:00,US,Existing Home Sales (Jan),USD,4.3500,,,,0.0000,High,
+2026-02-12 14:00:00+00:00,US,Existing Home Sales MoM,USD,5.1000,,,,0.0000,Medium,
+2026-02-12 14:30:00+00:00,US,EIA Natural Gas Stocks Change (Feb/06),USD,,,,,0.0000,Low,
+2026-02-12 15:00:00+00:00,US,Existing Home Sales (Jan),USD,4.35,,,,0,High,M
+2026-02-12 15:30:00+00:00,US,4-Week Bill Auction,USD,,,,,0.0000,Low,
+2026-02-12 15:30:00+00:00,US,8-Week Bill Auction,USD,,,,,0.0000,Low,
+2026-02-12 16:00:00+00:00,US,15-Year Mortgage Rate (Feb/12),USD,,,,,0.0000,Low,
+2026-02-12 16:00:00+00:00,US,30-Year Mortgage Rate (Feb/12),USD,,,,,0.0000,Low,
+2026-02-12 17:00:00+00:00,US,30-Year Bond Auction,USD,,,,,0.0000,Low,
+2026-02-12 20:30:00+00:00,US,Fed Balance Sheet (Feb/11),USD,,,,,0.0000,Low,
+2026-02-13 17:00:00+00:00,US,Baker Hughes Oil Rig Count (Feb/13),USD,,,,,0.0000,Low,
+2026-02-16 15:30:00+00:00,US,3-Month Bill Auction,USD,,,,,0.0000,Low,
+2026-02-16 15:30:00+00:00,US,6-Month Bill Auction,USD,,,,,0.0000,Low,
+2026-02-17 12:30:00+00:00,US,NY Empire State Manufacturing Index (Feb),USD,7.7000,,,,0.0000,Medium,
+2026-02-17 12:30:00+00:00,US,Retail Sales Ex Autos MoM (Jan),USD,,,,,0.0000,Medium,
+2026-02-17 12:30:00+00:00,US,Retail Sales Ex Gas/Autos MoM (Jan),USD,0.4000,,,,0.0000,Low,
+2026-02-17 12:30:00+00:00,US,Retail Sales MoM (Jan),USD,,,,,0.0000,Medium,
+2026-02-17 12:30:00+00:00,US,Retail Sales YoY (Jan),USD,3.3000,,,,0.0000,Low,
+2026-02-17 12:55:00+00:00,US,Redbook YoY (Feb/14),USD,,,,,0.0000,Low,
+2026-02-17 13:30:00+00:00,US,Retail Sales Ex Autos MoM (Jan),USD,,,,,0,High,
+2026-02-17 13:30:00+00:00,US,Retail Sales Ex Gas/Autos MoM (Jan),USD,0.4,,,,0,High,
+2026-02-17 13:30:00+00:00,US,Retail Sales MoM (Jan),USD,,,,,0,High,
+2026-02-17 13:30:00+00:00,US,Retail Sales YoY (Jan),USD,3.3,,,,0,High,
+2026-02-17 14:00:00+00:00,US,Business Inventories MoM (Dec),USD,0.3000,,,,0.0000,Medium,
+2026-02-17 14:00:00+00:00,US,NAHB Housing Market Index (Feb),USD,37.0000,,,,0.0000,Medium,
+2026-02-17 14:00:00+00:00,US,Retail Inventories Ex Autos MoM (Dec),USD,0.3000,,,,0.0000,Low,
+2026-02-17 15:30:00+00:00,US,3-Month Bill Auction,USD,,,,,0.0000,Low,
+2026-02-17 15:30:00+00:00,US,52-Week Bill Auction,USD,,,,,0.0000,Low,
+2026-02-17 15:30:00+00:00,US,6-Month Bill Auction,USD,,,,,0.0000,Low,
+2026-02-18 11:00:00+00:00,US,MBA 30-Year Mortgage Rate (Feb/13),USD,,,,,0.0000,Medium,
+2026-02-18 11:00:00+00:00,US,MBA Mortgage Applications (Feb/13),USD,,,,,0.0000,Low,
+2026-02-18 11:00:00+00:00,US,MBA Mortgage Market Index (Feb/13),USD,,,,,0.0000,Low,
+2026-02-18 11:00:00+00:00,US,MBA Mortgage Refinance Index (Feb/13),USD,,,,,0.0000,Low,
+2026-02-18 11:00:00+00:00,US,MBA Purchase Index (Feb/13),USD,,,,,0.0000,Low,
+2026-02-18 12:30:00+00:00,US,Building Permits (Jan),USD,,,,,0.0000,Medium,
+2026-02-18 12:30:00+00:00,US,Export Prices MoM (Jan),USD,,,,,0.0000,Medium,
+2026-02-18 12:30:00+00:00,US,Export Prices YoY (Jan),USD,,,,,0.0000,Low,
+2026-02-18 12:30:00+00:00,US,Housing Starts (Jan),USD,,,,,0.0000,High,
+2026-02-18 12:30:00+00:00,US,Housing Starts MoM (Jan),USD,,,,,0.0000,Medium,
+2026-02-18 12:30:00+00:00,US,Import Prices MoM (Jan),USD,,,,,0.0000,Medium,
+2026-02-18 12:30:00+00:00,US,Import Prices YoY (Jan),USD,,,,,0.0000,Low,
+2026-02-18 13:15:00+00:00,US,Capacity Utilization (Jan),USD,76.3000,,,,0.0000,Low,
+2026-02-18 13:15:00+00:00,US,Industrial Production MoM (Jan),USD,0.4000,,,,0.0000,Medium,
+2026-02-18 13:15:00+00:00,US,Industrial Production YoY (Jan),USD,2.0000,,,,0.0000,Low,
+2026-02-18 13:15:00+00:00,US,Manufacturing Production MoM (Jan),USD,0.2000,,,,0.0000,Low,
+2026-02-18 13:15:00+00:00,US,Manufacturing Production YoY (Jan),USD,2.0000,,,,0.0000,Low,
+2026-02-18 13:30:00+00:00,US,Housing Starts (Jan),USD,,,,,0,High,
+2026-02-18 15:30:00+00:00,US,17-Week Bill Auction,USD,,,,,0.0000,Low,
+2026-02-18 17:00:00+00:00,US,20-Year Bond Auction,USD,,,,,0.0000,Low,
+2026-02-18 18:00:00+00:00,US,FOMC Minutes,USD,,,,,0.0000,High,
+2026-02-18 19:00:00+00:00,US,FOMC Minutes,USD,,,,,0,High,
+2026-02-18 20:00:00+00:00,US,Foreign Bond Investment (Dec),USD,85.6000,,,,0.0000,Low,
+2026-02-18 20:00:00+00:00,US,Net Long-Term TIC Flows (Dec),USD,220.2000,,,,0.0000,Medium,
+2026-02-18 20:00:00+00:00,US,Overall Net Capital Flows (Dec),USD,212.0000,,,,0.0000,Low,
+2026-02-18 20:30:00+00:00,US,API Crude Oil Stock Change (Feb/13),USD,,,,,0.0000,Medium,
+2026-02-19 12:30:00+00:00,US,Continuing Jobless Claims (Feb/07),USD,,,,,0.0000,Low,
+2026-02-19 12:30:00+00:00,US,Initial Jobless Claims (Feb/14),USD,,,,,0.0000,Medium,
+2026-02-19 12:30:00+00:00,US,Jobless Claims 4-Week Average (Feb/14),USD,,,,,0.0000,Low,
+2026-02-19 12:30:00+00:00,US,Philadelphia Fed Manufacturing Index (Feb),USD,12.6000,,,,0.0000,Medium,
+2026-02-19 12:30:00+00:00,US,Philly Fed Business Conditions (Feb),USD,25.5000,,,,0.0000,Low,
+2026-02-19 12:30:00+00:00,US,Philly Fed CAPEX Index (Feb),USD,30.3000,,,,0.0000,Low,
+2026-02-19 12:30:00+00:00,US,Philly Fed Employment (Feb),USD,9.7000,,,,0.0000,Low,
+2026-02-19 12:30:00+00:00,US,Philly Fed New Orders (Feb),USD,14.4000,,,,0.0000,Low,
+2026-02-19 12:30:00+00:00,US,Philly Fed Prices Paid (Feb),USD,46.9000,,,,0.0000,Low,
+2026-02-19 13:30:00+00:00,US,Initial Jobless Claims (Feb/14),USD,,,,,0,High,
+2026-02-19 14:00:00+00:00,US,Pending Home Sales MoM (Jan),USD,-9.3000,,,,0.0000,Medium,
+2026-02-19 14:00:00+00:00,US,Pending Home Sales YoY (Jan),USD,-3.0000,,,,0.0000,Medium,
+2026-02-19 14:30:00+00:00,US,EIA Natural Gas Stocks Change (Feb/13),USD,,,,,0.0000,Low,
+2026-02-19 15:30:00+00:00,US,4-Week Bill Auction,USD,,,,,0.0000,Low,
+2026-02-19 15:30:00+00:00,US,8-Week Bill Auction,USD,,,,,0.0000,Low,
+2026-02-19 16:00:00+00:00,US,15-Year Mortgage Rate (Feb/19),USD,,,,,0.0000,Low,
+2026-02-19 16:00:00+00:00,US,30-Year Mortgage Rate (Feb/19),USD,,,,,0.0000,Low,
+2026-02-19 16:00:00+00:00,US,EIA Crude Oil Imports Change (Feb/13),USD,,,,,0.0000,Low,
+2026-02-19 16:00:00+00:00,US,EIA Crude Oil Stocks Change (Feb/13),USD,,,,,0.0000,Medium,
+2026-02-19 16:00:00+00:00,US,EIA Cushing Crude Oil Stocks Change (Feb/13),USD,,,,,0.0000,Low,
+2026-02-19 16:00:00+00:00,US,EIA Distillate Fuel Production Change (Feb/13),USD,,,,,0.0000,Low,
+2026-02-19 16:00:00+00:00,US,EIA Distillate Stocks Change (Feb/13),USD,,,,,0.0000,Low,
+2026-02-19 16:00:00+00:00,US,EIA Gasoline Production Change (Feb/13),USD,,,,,0.0000,Low,
+2026-02-19 16:00:00+00:00,US,EIA Gasoline Stocks Change (Feb/13),USD,,,,,0.0000,Medium,
+2026-02-19 16:00:00+00:00,US,EIA Heating Oil Stocks Change (Feb/13),USD,,,,,0.0000,Low,
+2026-02-19 16:00:00+00:00,US,EIA Refinery Crude Runs Change (Feb/13),USD,,,,,0.0000,Low,
+2026-02-19 17:00:00+00:00,US,30-Year TIPS Auction,USD,,,,,0.0000,Low,
+2026-02-19 20:30:00+00:00,US,Fed Balance Sheet (Feb/18),USD,,,,,0.0000,Low,
+2026-02-20 12:30:00+00:00,US,Core PCE Price Index MoM (Dec),USD,0.2000,,,,0.0000,High,
+2026-02-20 12:30:00+00:00,US,Core PCE Price Index YoY (Dec),USD,2.8000,,,,0.0000,Low,
+2026-02-20 12:30:00+00:00,US,Core PCE Prices QoQ (Q4),USD,2.9000,,,,0.0000,Low,
+2026-02-20 12:30:00+00:00,US,GDP Growth Rate QoQ (Q4),USD,4.4000,,,,0.0000,High,
+2026-02-20 12:30:00+00:00,US,GDP Price Index QoQ (Q4),USD,3.7000,,,,0.0000,Medium,
+2026-02-20 12:30:00+00:00,US,GDP Sales QoQ (Q4),USD,4.5000,,,,0.0000,Low,
+2026-02-20 12:30:00+00:00,US,PCE Price Index MoM (Dec),USD,0.2000,,,,0.0000,Medium,
+2026-02-20 12:30:00+00:00,US,PCE Price Index YoY (Dec),USD,2.8000,,,,0.0000,Medium,
+2026-02-20 12:30:00+00:00,US,PCE Prices QoQ (Q4),USD,2.8000,,,,0.0000,Low,
+2026-02-20 12:30:00+00:00,US,Personal Income MoM (Dec),USD,0.3000,,,,0.0000,High,
+2026-02-20 12:30:00+00:00,US,Personal Spending MoM (Dec),USD,0.5000,,,,0.0000,High,
+2026-02-20 12:30:00+00:00,US,Real Consumer Spending QoQ (Q4),USD,3.5000,,,,0.0000,Low,
+2026-02-20 13:30:00+00:00,US,Core PCE Price Index MoM (Dec),USD,0.2,,,,0,High,
+2026-02-20 13:30:00+00:00,US,Core PCE Price Index YoY (Dec),USD,2.8,,,,0,High,
+2026-02-20 13:30:00+00:00,US,GDP Growth Rate QoQ (Q4),USD,4.4,,,,0,High,
+2026-02-20 13:30:00+00:00,US,GDP Price Index QoQ (Q4),USD,3.7,,,,0,High,
+2026-02-20 13:30:00+00:00,US,GDP Sales QoQ (Q4),USD,4.5,,,,0,High,
+2026-02-20 13:30:00+00:00,US,PCE Price Index MoM (Dec),USD,0.2,,,,0,High,
+2026-02-20 13:30:00+00:00,US,PCE Price Index YoY (Dec),USD,2.8,,,,0,High,
+2026-02-20 13:30:00+00:00,US,Personal Income MoM (Dec),USD,0.3,,,,0,High,
+2026-02-20 13:30:00+00:00,US,Personal Spending MoM (Dec),USD,0.5,,,,0,High,
+2026-02-20 13:45:00+00:00,US,S&P Global Composite PMI Flash (Feb),USD,,,,,0.0000,Medium,
+2026-02-20 13:45:00+00:00,US,S&P Global Manufacturing PMI Flash (Feb),USD,,,,,0.0000,Medium,
+2026-02-20 13:45:00+00:00,US,S&P Global Services PMI Flash (Feb),USD,,,,,0.0000,Medium,
+2026-02-20 14:00:00+00:00,US,Michigan 5 Year Inflation Expectations (Feb),USD,,,,,0.0000,Low,
+2026-02-20 14:00:00+00:00,US,Michigan Consumer Expectations (Feb),USD,,,,,0.0000,Low,
+2026-02-20 14:00:00+00:00,US,Michigan Consumer Sentiment (Feb),USD,,,,,0.0000,Medium,
+2026-02-20 14:00:00+00:00,US,Michigan Current Conditions (Feb),USD,,,,,0.0000,Low,
+2026-02-20 14:00:00+00:00,US,Michigan Inflation Expectations (Feb),USD,,,,,0.0000,Low,
+2026-02-20 15:00:00+00:00,US,Michigan Consumer Sentiment (Feb),USD,56.4,,,,0,High,
+2026-02-20 17:00:00+00:00,US,Baker Hughes Oil Rig Count (Feb/20),USD,,,,,0.0000,Low,
+2026-02-26 13:30:00+00:00,US,Core PCE Price Index MoM (Jan),USD,,,,,0,High,
+2026-02-26 13:30:00+00:00,US,Core PCE Price Index YoY (Jan),USD,,,,,0,High,
+2026-02-26 13:30:00+00:00,US,Durable Goods Orders MoM (Jan),USD,,,,,0,High,
+2026-02-26 13:30:00+00:00,US,Initial Jobless Claims (Feb/21),USD,,,,,0,High,
+2026-02-26 13:30:00+00:00,US,PCE Price Index MoM (Jan),USD,,,,,0,High,
+2026-02-26 13:30:00+00:00,US,PCE Price Index YoY (Jan),USD,,,,,0,High,
+2026-02-26 13:30:00+00:00,US,Personal Income MoM (Jan),USD,,,,,0,High,
+2026-02-26 13:30:00+00:00,US,Personal Spending MoM (Jan),USD,,,,,0,High,
+2026-02-27 13:30:00+00:00,US,Core PPI MoM (Jan),USD,,,,,0,High,
+2026-02-27 13:30:00+00:00,US,Core PPI YoY (Jan),USD,,,,,0,High,
+2026-02-27 13:30:00+00:00,US,"PPI Ex Food, Energy and Trade MoM (Jan)",USD,,,,,0,High,
+2026-02-27 13:30:00+00:00,US,"PPI Ex Food, Energy and Trade YoY (Jan)",USD,,,,,0,High,
+2026-02-27 13:30:00+00:00,US,Producer Price Index (Jan),USD,,,,,0,High,
+2026-02-27 13:30:00+00:00,US,Producer Price Index MoM (Jan),USD,,,,,0,High,
+2026-02-27 13:30:00+00:00,US,Producer Price Index YoY (Jan),USD,,,,,0,High,
+2026-03-02 15:00:00+00:00,US,ISM Manufacturing PMI (Feb),USD,,,,,0,High,
+2026-03-04 15:00:00+00:00,US,ISM Services PMI (Feb),USD,,,,,0,High,
+2026-03-05 13:30:00+00:00,US,Initial Jobless Claims (Feb/28),USD,,,,,0,High,
+2026-03-06 13:30:00+00:00,US,Non Farm Payrolls (Feb),USD,,,,,0,High,
+2026-03-06 13:30:00+00:00,US,Nonfarm Payrolls Private (Feb),USD,,,,,0,High,
+2026-03-06 13:30:00+00:00,US,U-6 Unemployment Rate (Feb),USD,,,,,0,High,
+2026-03-06 13:30:00+00:00,US,Unemployment Rate (Feb),USD,,,,,0,High,
+2026-03-10 14:00:00+00:00,US,Existing Home Sales (Feb),USD,,,,,0,High,
+2026-03-11 12:30:00+00:00,US,Core Inflation Rate MoM (Feb),USD,,,,,0,High,
+2026-03-11 12:30:00+00:00,US,Core Inflation Rate YoY (Feb),USD,,,,,0,High,
+2026-03-11 12:30:00+00:00,US,CPI (Feb),USD,,,,,0,High,
+2026-03-11 12:30:00+00:00,US,CPI s.a (Feb),USD,,,,,0,High,
+2026-03-11 12:30:00+00:00,US,Inflation Rate MoM (Feb),USD,,,,,0,High,
+2026-03-11 12:30:00+00:00,US,Inflation Rate YoY (Feb),USD,,,,,0,High,
+2026-03-12 12:30:00+00:00,US,Core PPI MoM (Feb),USD,,,,,0,High,
+2026-03-12 12:30:00+00:00,US,Core PPI YoY (Feb),USD,,,,,0,High,
+2026-03-12 12:30:00+00:00,US,Initial Jobless Claims (Mar/07),USD,,,,,0,High,
+2026-03-12 12:30:00+00:00,US,"PPI Ex Food, Energy and Trade MoM (Feb)",USD,,,,,0,High,
+2026-03-12 12:30:00+00:00,US,"PPI Ex Food, Energy and Trade YoY (Feb)",USD,,,,,0,High,
+2026-03-12 12:30:00+00:00,US,Producer Price Index (Feb),USD,,,,,0,High,
+2026-03-12 12:30:00+00:00,US,Producer Price Index MoM (Feb),USD,,,,,0,High,
+2026-03-12 12:30:00+00:00,US,Producer Price Index YoY (Feb),USD,,,,,0,High,
+2026-03-13 13:30:00+00:00,US,Core PCE Price Index MoM (Jan),USD,,,,,0,High,
+2026-03-13 13:30:00+00:00,US,Core PCE Price Index YoY (Jan),USD,,,,,0,High,
+2026-03-13 13:30:00+00:00,US,GDP Growth Rate QoQ (Q4),USD,,,,,0,High,
+2026-03-13 13:30:00+00:00,US,GDP Price Index QoQ (Q4),USD,3.7,,,,0,High,
+2026-03-13 13:30:00+00:00,US,GDP Sales QoQ (Q4),USD,4.5,,,,0,High,
+2026-03-13 13:30:00+00:00,US,PCE Price Index MoM (Jan),USD,,,,,0,High,
+2026-03-13 13:30:00+00:00,US,PCE Price Index YoY (Jan),USD,,,,,0,High,
+2026-03-13 13:30:00+00:00,US,Personal Income MoM (Jan),USD,,,,,0,High,
+2026-03-13 13:30:00+00:00,US,Personal Spending MoM (Jan),USD,,,,,0,High,
+2026-03-13 14:00:00+00:00,US,Michigan Consumer Sentiment (Mar),USD,,,,,0,High,
+2026-03-18 18:00:00+00:00,US,Fed Interest Rate Decision,USD,,,,,0,High,
+2026-03-18 18:00:00+00:00,US,FOMC Economic Projections,USD,,,,,0,High,
+2026-03-18 18:30:00+00:00,US,Fed Press Conference,USD,,,,,0,High,
+2026-03-19 12:30:00+00:00,US,Initial Jobless Claims (Mar/14),USD,,,,,0,High,
